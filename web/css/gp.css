@@ -1,0 +1,26 @@
+body{
+    background-image: url('45.jpg');
+    color: #56bedd;
+    font: 20px/25px 'arial';
+    
+    background-size: 100% auto;
+} 
+
+#divformulario {
+    border:1px solid white; 
+    width: 30%;
+    padding: 15px;
+    margin-left: 25px;
+    margin-right: 5px;
+    float: left;
+}
+
+#divfilmografia{
+    width: 60%;
+    padding: 10px;
+    margin-right: 25px;
+    margin-left: 5px;
+    float: right;
+    border: 1px solid white; 
+    overflow: scroll; 
+}
