@@ -6,21 +6,48 @@ body{
     background-size: 100% auto;
 } 
 
+h3{
+    color: pink;
+}
+
 #divformulario {
     border:1px solid white; 
-    width: 30%;
+    width: 29%;
     padding: 15px;
-    margin-left: 25px;
-    margin-right: 5px;
+    margin-left: 5%;
     float: left;
 }
 
+a{
+    color:#FFF;
+    background: pink;
+}
+
 #divfilmografia{
-    width: 60%;
+    width: 50%;
     padding: 10px;
-    margin-right: 25px;
-    margin-left: 5px;
+    height: 415px;
+    margin-right: 5%;
+    margin-left: 3%;
     float: right;
     border: 1px solid white; 
     overflow: scroll; 
+}
+
+#sucesso{
+    width: 90%;
+    margin: 5%;
+}
+
+#coelho{
+    width: 25%;
+    margin-left: 40%;
+}
+
+#kiss{
+    width: 12.5%;
+}
+
+#botao{
+    margin-left: 60%;
 }

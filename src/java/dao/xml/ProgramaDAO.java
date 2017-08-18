@@ -1,4 +1,4 @@
-package dao;
+package dao.xml;
 
 
 import modelo.Programa;
@@ -11,7 +11,7 @@ import java.io.FileOutputStream;
 import java.util.ArrayList;
 
 public class ProgramaDAO {
-    static final String ARQUIVO_FILMOGRAFIA = System.getProperty("user.dir") + "/filmografia.xml";
+    static final String ARQUIVO_FILMOGRAFIA = System.getProperty("user.home") + "/filmografia.xml";
     
     public boolean atualizaFilmografia(Programa programa) {
         FileOutputStream fout = null;
@@ -29,14 +29,16 @@ public class ProgramaDAO {
             // sucesso na operacao
             return true;
         } catch (Exception ex) {
-            System.out.println("erro ao gravar pessoas: " + ex.getMessage());
+            System.out.println("erro ao gravar filmografia " + ex.getMessage());
             // falha na operacao
             return false;
         }
     }
     
     
-    public boolean inserePrograma(ArrayList<Programa> programas) {
+    public boolean inserePrograma(Programa novo) {
+        ArrayList<Programa> programas = carregaListaDeProgramas();
+        programas.add(novo);
         return salvarListaDeProgramas(programas);
     }
     

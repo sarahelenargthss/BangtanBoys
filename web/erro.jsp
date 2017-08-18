@@ -1,27 +1,24 @@
-<%-- 
-    Document   : sucesso
-    Created on : Apr 5, 2017, 6:50:00 PM
-    Author     : friend
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Problema na execução da operação</title>
+        <link rel="stylesheet" href="css/gp.css">
     </head>
     <body>
         <%
             HttpSession ses = request.getSession(true);
             String msg = (String) ses.getAttribute("mensagem");
         %>
-        
-        <h1>Erro</h1>
-        <b><%=msg%></b>
-        
-        <br>
-        <a href="index.jsp">Continuar</a>
-        
+
+        <div id="sucesso">
+            <p>
+                <b><%=msg%></b>
+            </p>
+        </div>
+
+        <br><br><br><br><br>
+        <a href="controlador?op=sucesso" id="coelho" ><img src="img/logos/erro.gif"/> </a>
     </body>
 </html>

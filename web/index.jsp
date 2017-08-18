@@ -1,11 +1,5 @@
-<%-- 
-    Document   : index
-    Created on : 18/04/2017, 11:44:44
-    Author     : informatica
---%>
-
 <%@page import="java.util.Calendar"%>
-<%@page import="dao.ProgramaDAO"%>
+<%@page import="dao.xml.ProgramaDAO"%>
 <%@page import="modelo.Filmografia"%>
 <%@page import="modelo.Programa"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -568,17 +562,13 @@
 
                     <tbody>
                         <%
-                            HttpSession ses = request.getSession(true);
+                            //HttpSession ses = request.getSession(true);
 
                             // busca a agenda
-                            Filmografia flmg = (Filmografia) ses.getAttribute("filmografia");
-
-                            if (flmg == null) {
-                                flmg = new Filmografia();
-                                ProgramaDAO pdao = new ProgramaDAO();
-                                flmg.setFilmografia(pdao.carregaListaDeProgramas());
-                                ses.setAttribute("filmografia", flmg);
-                            }
+                            ProgramaDAO pdao = new ProgramaDAO();
+                            Filmografia flmg =  new Filmografia();
+                            flmg.setFilmografia(pdao.carregaListaDeProgramas());
+                            
                             int max = Calendar.getInstance().get(Calendar.YEAR);
                             boolean mostraAno;
                             for (int i = 2013; i <= max; i++) {
@@ -830,7 +820,8 @@
         </footer> <!-- end footer -->
 
         <% try {
-                ses = request.getSession(true);
+            
+                HttpSession ses = request.getSession(true);
                 Boolean login = (Boolean) ses.getAttribute("logado");
                 if ((login != null) && (login)) {
         %>
