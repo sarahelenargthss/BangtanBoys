@@ -6,9 +6,27 @@
 <html> <head> <title>Gerenciar Páginas</title>
         <meta charset="utf-8">
         <link rel="stylesheet" href="css/gp.css">
+        
+        <script>
+            $(document).ready{
+                function(){
+                    $("#semAcesso").click{
+                        
+                    }
+                }
+            }
+        </script>
 
     </head>
     <body>
+        <% try {
+                HttpSession ses = request.getSession(true);
+                Boolean login = (Boolean) ses.getAttribute("logado");
+                if (login) {
+                    ses.setAttribute("mensagem",
+                            "Algum campo foi preenchido incorretamente!");
+        %>
+
         <div style="padding-left: 35%; margin-bottom: 5%;">
             <h1>Gerenciar <span>Páginas</span><a href="controlador?op=voltarMenu" id="coelho" ><img id="kiss" src="img/logos/kiss.gif"/></a></h1>
         </div>
@@ -45,12 +63,29 @@
                 flmg.setFilmografia(pdao.carregaListaDeProgramas());
                 //quebra de linha entre links nao funcionou
                 for (Programa p : flmg.getFilmografia()) {
-                    %><a href=
-                       <% p.getCodPrograma();%>>
-                        <%out.println(p.getNome() + " / " + p.getEpisodios());%></a>
-                          <br><%
+            %><a href=
+               <% p.getCodPrograma();%>>
+                <%out.println(p.getNome() + " / " + p.getEpisodios());%></a>
+            <br><%
                 }%> 
         </div>
+
+        <%      } else { %>
+
+        <div id="sucesso">
+            <p>
+                <b><h3>Você não pode acessar essa página sem estar logado.</h3></b>
+            </p>
+        </div>
+        
+        <br><br><br>
+        <a href="index.jsp" id="linkVoltar" > Voltar </a>
+
+        <%}
+            } catch (Exception e) {
+                out.println(e.getMessage());
+            }%>  
+
 
     </body>
 </html>

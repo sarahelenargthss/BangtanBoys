@@ -7,7 +7,7 @@ body{
 } 
 
 h3{
-    color: pink;
+    color: #528ab7;
 }
 
 #divformulario {
@@ -21,6 +21,10 @@ h3{
 a{
     color:#FFF;
     background: pink;
+}
+
+#linkVoltar{
+    margin: 500px;
 }
 
 #divfilmografia{
