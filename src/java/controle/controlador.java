@@ -6,7 +6,7 @@ import java.io.PrintWriter;
 import java.util.Random;
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
-import javax.servlet.annotation.WebServlet;
+import javax.servlet.annotation.WebServlet; 
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -134,6 +134,9 @@ public class controlador extends HttpServlet {
                 rd.forward(request, response);
             } else if (op.equals("voltarPagina")) {
                 rd = request.getRequestDispatcher("gerenciarPagina.jsp");
+                rd.forward(request, response);
+            }else if (op.equals("voltarMenu")) {
+                rd = request.getRequestDispatcher("index.jsp");
                 rd.forward(request, response);
             }
         }

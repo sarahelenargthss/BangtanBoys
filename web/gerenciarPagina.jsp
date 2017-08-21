@@ -10,7 +10,7 @@
     </head>
     <body>
         <div style="padding-left: 35%; margin-bottom: 5%;">
-            <h1>Gerenciar <span>Páginas</span><img id="kiss" src="img/logos/kiss.gif"/></h1>
+            <h1>Gerenciar <span>Páginas</span><a href="controlador?op=voltarMenu" id="coelho" ><img id="kiss" src="img/logos/kiss.gif"/></a></h1>
         </div>
         <br>
 
