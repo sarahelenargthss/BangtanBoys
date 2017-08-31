@@ -9,7 +9,7 @@ public class TestaDAO {
         
         ProgramaDAO pdao = new ProgramaDAO();
         
-        if (pdao.inserePrograma(new Programa("oi", "episodio 1", "joao e maria", "globo", 2013, 0))) {
+        if (pdao.inserePrograma(new Programa("oi", "episodio 1", "joao e maria", "globo", 2013, 0, "oi"))) {
             System.out.println("programa inserido");
         } else {
             System.out.println("erro ao inserir programa");

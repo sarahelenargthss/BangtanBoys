@@ -8,18 +8,28 @@ public class Programa {
     String emissora;
     int ano;
     int codPrograma;
+    String tipo;
+
+    public String getTipo() {
+        return tipo;
+    }
+
+    public void setTipo(String tipo) {
+        this.tipo = tipo;
+    }
 
     public Programa() {
 
     }
 
-    public Programa(String nome, String episodios, String membros, String emissora, int ano, int cod) {
+    public Programa(String nome, String episodios, String membros, String emissora, int ano, int cod, String tipo) {
         this.nome = nome;
         this.episodios = episodios;
         this.membros = membros;
         this.emissora = emissora;
         this.ano = ano;
         this.codPrograma = cod;
+        this.tipo = tipo;
     }
 
     public int getCodPrograma() {

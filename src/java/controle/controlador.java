@@ -62,8 +62,8 @@ public class controlador extends HttpServlet {
                     rd = request.getRequestDispatcher("mensagem.jsp");
                     rd.forward(request, response);
                 } else {
-                    if ((nome.equals("")) || (membros.equals(""))
-                            || (emissora.equals("")) || (ano < 2013)) {
+                    if (((nome.equals("")) || (membros.equals(""))
+                            || (emissora.equals("")) || (ano < 2013)) /*|| (pDAO.verificaPrograma)*/) {
                         // cria a mensagem de erro
                         ses.setAttribute("idImagem",
                                 "img/logos/erro.gif");
@@ -89,7 +89,7 @@ public class controlador extends HttpServlet {
                             }
                         } while (cod == cod1);
 
-                        if (new ProgramaDAO().inserePrograma(new Programa(nome, episodios, membros, emissora, ano, cod))) {
+                        if (new ProgramaDAO().inserePrograma(new Programa(nome, episodios, membros, emissora, ano, cod, tipo))) {
                             // atualiza a agenda na sessao
                             //ses.setAttribute("filmografia", flmg);
                             // cria a mensagem de sucesso

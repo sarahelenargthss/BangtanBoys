@@ -557,27 +557,35 @@
                         <div class="border"></div>
                     </div>
                     <!-- /section title -->
-                    <h2>Programas de Variedade</h2>
-
-
                     <tbody>
                         <%
-                            //HttpSession ses = request.getSession(true);
+                            String tipo;
+                            for (int s = 0; s < 2; s++) {
+                                if (s == 0) {
+                                    tipo = "Programas de Variedade";
+                                } else {
+                                    tipo = "Drama";
+                                }
+                        %> 
+                    <h2><%out.println(tipo);%></h2> 
+                    <%
+                        // não mostra a filmografia (problema aqui)
+                        ProgramaDAO pdao = new ProgramaDAO();
+                        Filmografia flmg = new Filmografia();
+                        flmg.setFilmografia(pdao.carregaListaDeProgramas());
 
-                            // busca a agenda
-                            ProgramaDAO pdao = new ProgramaDAO();
-                            Filmografia flmg =  new Filmografia();
-                            flmg.setFilmografia(pdao.carregaListaDeProgramas());
-                            
-                            int max = Calendar.getInstance().get(Calendar.YEAR);
-                            boolean mostraAno;
-                            for (int i = 2013; i <= max; i++) {
-                                mostraAno = false;
-                                for (Programa p : flmg.getFilmografia()) {
-                                    if (p.getAno() == i) {
-                                        if (!mostraAno) {
-                        %><h3><%out.println(p.getAno());%></h3><br><%
-                            }
+                        int max = Calendar.getInstance().get(Calendar.YEAR);
+                        boolean mostraAno;
+                        for (int i = 2013; i <= max; i++) {
+                            mostraAno = false;
+                            for (Programa p : flmg.getFilmografia()) {
+                                if (p.getAno() == i && p.getTipo().equals(tipo)) {
+                                    if (!mostraAno) {
+                    %>
+                    <h3><%out.println(p.getAno());%></h3>
+                    <br>
+                    <%
+                        }
 
                     %>
                     <article id="filmografia" class="team-mate">
@@ -598,7 +606,8 @@
                     </article>
 
                     <%
-                                    mostraAno = true;
+                                        mostraAno = true;
+                                    }
                                 }
                             }
                         }
@@ -820,7 +829,7 @@
         </footer> <!-- end footer -->
 
         <% try {
-            
+
                 HttpSession ses = request.getSession(true);
                 Boolean login = (Boolean) ses.getAttribute("logado");
                 if ((login != null) && (login)) {
