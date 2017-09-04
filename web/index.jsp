@@ -560,11 +560,14 @@
                     <tbody>
                         <%
                             String tipo;
+                            String valor;
                             for (int s = 0; s < 2; s++) {
                                 if (s == 0) {
                                     tipo = "Programas de Variedade";
+                                    valor = "programa";
                                 } else {
                                     tipo = "Drama";
+                                    valor = "drama";
                                 }
                         %> 
                     <h2><%out.println(tipo);%></h2> 
@@ -579,7 +582,7 @@
                         for (int i = 2013; i <= max; i++) {
                             mostraAno = false;
                             for (Programa p : flmg.getFilmografia()) {
-                                if (p.getAno() == i && p.getTipo().equals(tipo)) {
+                                if (p.getAno() == i && p.getTipo().equals(valor)) {
                                     if (!mostraAno) {
                     %>
                     <h3><%out.println(p.getAno());%></h3>

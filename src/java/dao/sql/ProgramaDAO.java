@@ -23,13 +23,13 @@ public class ProgramaDAO {
     
     public boolean inserePrograma(Programa programa){
         try {
-            PreparedStatement p = retornaConexao("insert into programa values(?, ?, ?, ?, ?, ?);");
+            PreparedStatement p = retornaConexao("insert into programa (titulo, canal, episodios, membros, ano, tipo) values(?, ?, ?, ?, ?, ?);");
             p.setString(1, programa.getNome());
             p.setString(2, programa.getEmissora());
             p.setString(3, programa.getEpisodios());
             p.setString(4, programa.getMembros());
             p.setInt(6, programa.getAno());
-            //p.setString(5, programa.get);
+            p.setString(5, programa.getTipo());
             p.execute();
         } catch (SQLException e) {
             return false;
