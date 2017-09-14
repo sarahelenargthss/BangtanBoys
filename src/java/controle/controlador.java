@@ -1,17 +1,15 @@
 package controle;
 
-import dao.xml.ProgramaDAO;
+import dao.sql.ProgramaDAO;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.Random;
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
-import javax.servlet.annotation.WebServlet; 
+import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
-import modelo.Filmografia;
 import modelo.Programa;
 
 @WebServlet(name = "controlador", urlPatterns = {"/controlador"})
@@ -24,15 +22,10 @@ public class controlador extends HttpServlet {
         response.setContentType("text/html;charset=UTF-8");
         request.setCharacterEncoding("UTF-8");
         try (PrintWriter out = response.getWriter()) {
-            //busca a agenda da sessao
             String op = request.getParameter("op");
             if (op.equals("incluiPrograma")) {
-                // connecta a sessao
                 HttpSession ses = request.getSession(true);
-                // busca a agenda
                 ProgramaDAO pdao = new ProgramaDAO();
-                //Filmografia flmg = (Filmografia) ses.getAttribute("filmografia");
-                // busca os campos da pessoa
                 boolean erro = false;
                 Programa p = new Programa();
                 try {
@@ -45,40 +38,26 @@ public class controlador extends HttpServlet {
                 } catch (Exception e) {
                     erro = true;
                 }
-                // algum campo foi deixado em branco?
                 if (erro) {
-                    // cria a mensagem de erro
                     ses.setAttribute("idImagem",
                             "img/logos/erro.gif");
                     ses.setAttribute("mensagem",
                             "Algum campo foi preenchido incorretamente!");
-                    // encaminha pra tela de erro
                     rd = request.getRequestDispatcher("mensagem.jsp");
                     rd.forward(request, response);
                 } else {
                     if (((p.getNome().equals("")) || (p.getMembros().equals(""))
-                            || (p.getEmissora().equals("")) || (p.getAno() < 2013)) /*|| (pDAO.verificaPrograma)*/) {
-                        // cria a mensagem de erro
+                            || (p.getEmissora().equals("")) || (p.getAno() < 2013) || (p.getEpisodios().equals(""))) || (pdao.verificaPrograma(p) == 3 || pdao.verificaPrograma(p) == 2)) {
                         ses.setAttribute("idImagem",
                                 "img/logos/erro.gif");
                         ses.setAttribute("mensagem",
-                                "Algum campo foi preenchido incorretamente!");
-                        // encaminha pra tela de erro
+                                "Erro ao inserir programa!!");
                         rd = request.getRequestDispatcher("mensagem.jsp");
                         rd.forward(request, response);
                     } else {
-                        // adiciona na agenda
-                        //flmg.addPrograma(new Programa(nome, episodios, membros, emissora, ano));
-                        // insere a pessoa no arquivo de dados
-                        
-                       
-                        
-                        
-                  //apagar xml
-                        
-                        
-                        
-                        Random rdm = new Random(1000);
+
+                        /*    XML
+                          Random rdm = new Random(1000);
 
                         Filmografia flmg = new Filmografia();
                         flmg.setFilmografia(pdao.carregaListaDeProgramas());
@@ -91,21 +70,10 @@ public class controlador extends HttpServlet {
                             }
                         } while (cod == cod1);
 
-                        if (new ProgramaDAO().inserePrograma(p)) {
-                        
-                 //termina apagar xml
-                            
-                             
-                        /*
-                        
-                        ProgramaDAO pDAO = new ProgramaDAO();
-                        if(pDAO.inserePrograma(p)){
-                        
-                        */
-                            
-                            // atualiza a agenda na sessao
-                            //ses.setAttribute("filmografia", flmg);
-                            // cria a mensagem de sucesso
+                        if (new ProgramaDAO().inserePrograma(p)) {         
+                         */
+                        if (pdao.inserePrograma(p)) {
+
                             ses.setAttribute("idImagem",
                                     "img/logos/sucesso1.gif");
                             ses.setAttribute("mensagem",
@@ -148,7 +116,7 @@ public class controlador extends HttpServlet {
             } else if (op.equals("voltarPagina")) {
                 rd = request.getRequestDispatcher("gerenciarPagina.jsp");
                 rd.forward(request, response);
-            }else if (op.equals("voltarMenu")) {
+            } else if (op.equals("voltarMenu")) {
                 rd = request.getRequestDispatcher("index.jsp");
                 rd.forward(request, response);
             }
