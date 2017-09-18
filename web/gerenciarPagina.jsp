@@ -1,6 +1,6 @@
 <%@page import="modelo.Programa"%>
 <%@page import="modelo.Filmografia"%>
-<%@page import="dao.xml.ProgramaDAO"%>
+<%@page import="dao.sql.ProgramaDAO"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html> <head> <title>Gerenciar Páginas</title>

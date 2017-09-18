@@ -1,6 +1,6 @@
+<%@page import="java.util.ArrayList"%>
 <%@page import="java.util.Calendar"%>
-<%@page import="dao.xml.ProgramaDAO"%>
-<%@page import="modelo.Filmografia"%>
+<%@page import="dao.sql.ProgramaDAO"%>
 <%@page import="modelo.Programa"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -561,7 +561,7 @@
                         <%
                             String tipo;
                             String valor;
-                            for (int s = 0; s < 2; s++) {
+                            for (int s = 0; s <=1; s++) {
                                 if (s == 0) {
                                     tipo = "Programas de Variedade";
                                     valor = "programa";
@@ -572,16 +572,15 @@
                         %> 
                     <h2><%out.println(tipo);%></h2> 
                     <%
-                        // não mostra a filmografia (problema aqui)
                         ProgramaDAO pdao = new ProgramaDAO();
                         Filmografia flmg = new Filmografia();
-                        flmg.setFilmografia(pdao.carregaListaDeProgramas());
+                        ArrayList<Programa> programas = pdao.carregaListaDeProgramas();
 
                         int max = Calendar.getInstance().get(Calendar.YEAR);
                         boolean mostraAno;
                         for (int i = 2013; i <= max; i++) {
                             mostraAno = false;
-                            for (Programa p : flmg.getFilmografia()) {
+                            for (Programa p : programas) {
                                 if (p.getAno() == i && p.getTipo().equals(valor)) {
                                     if (!mostraAno) {
                     %>

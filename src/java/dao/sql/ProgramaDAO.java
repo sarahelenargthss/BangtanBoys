@@ -62,7 +62,7 @@ public class ProgramaDAO {
         try{
             PreparedStatement p = retornaConexao("select * from filmografia;");
             ResultSet rs = p.executeQuery();
-             if (rs.next()) {
+             while (rs.next()) {
                 Programa programa = new Programa(rs.getString(1), rs.getString(2), rs.getString(3), rs.getString(4), rs.getInt(5), rs.getInt(6), rs.getString(7));
                 programas.add(programa);
             }
