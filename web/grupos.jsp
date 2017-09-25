@@ -10,73 +10,67 @@
                 background: url('img/slides/e.jpg') fixed;
                 background-size: 100%;
                 width: 100%;
-                height: 300px;
+                height: 450px;
             }
             #slide1{
                 background: url('img/slides/b.jpg') fixed;
                 background-size: 100%;
                 width: 100%;
-                height: 300px;
+                height: 450px;
             }
             #slide2{
                 background: url('img/slides/mt.jpg') fixed;
                 background-size: 100%;
                 width: 100%;
-                height: 300px;
+                height: 450px;
             }
             #slide3{
-                background: url('img/slides/ikon.png') fixed;
+                background: url('img/slides/kawaii.gif') fixed;
                 background-size: 100%;
                 width: 100%;
-                height: 300px;
+                height: 450px;
             }
             .clearfix {
                 overflow: auto;
             }
 
-            a , a:hover{
-                width: 1000px; height: 1000px; border-radius: 50px;
-                color:#000;
-                background: #c7254e;
+            a , a:hover, a:focus{
+                color:#ffffff;
             }
 
-            a:focus{
-                width: 1100px; height: 1100px;border-radius: 50px;
-                color:#000;
-                background: #777;
+
+            h2{
+                color: #ffffff;
+                font: monospace;
+                float: top;
+                margin-top: 10px;
+                padding-top: 196.875px;
+                font: 50px monospace;
             }
         </style>
     </head>
 
     <body>
         <div id="slide">
-            <p style="background: black; opacity: 0.50; width: auto; height: 300px; color: white; ">
-                guip8dç87pçajhajtrkrtkytkyti
-            </p>
+            <div style="padding-left: 45%; background: rgba(0,0,0,0.6); width: auto; height: 450px; color: white; ">
+                <a href='controlador?op=verPagina&pag="index.jsp"'><h2>EXO</h2></a>
+            </div>
         </div>
 
         <div id="slide1">
-            <p style="background: black; opacity: 0.50; width: auto; height: 300px; color: white; ">
-                guip8dç87pçajhajtrkrtkytkyti
-            </p>
+            <div style="padding-left: 40%; background: rgba(0,0,0,0.6); width: auto; height: 450px; color: white; ">
+                <a href='controlador?op=verPagina&pag="index.jsp"'> <h2>BOYFRIEND</h2></a>
+            </div>
         </div>
         <div id="slide2">
-            <p style="background: black; opacity: 0.50; width: auto; height: 300px; color: white; ">
-                guip8dç87pçajhajtrkrtkytkyti
-            </p>
+            <div style="padding-left: 44%; background: rgba(0,0,0,0.6); width: auto; height: 450px; color: white; ">
+                <a href='controlador?op=verPagina&pag="index.jsp"'> <h2>JJCC</h2></a>
+            </div>
         </div>
         <div id="slide3">
-            <p style="background: black; opacity: 0.50; width: auto; height: 300px; color: white; ">
-                guip8dç87pçajhajtrkrtkytkyti
-            </p>
+            <div style="padding-left: 45%; background: rgba(0,0,0,0.6); width: auto; height: 450px; color: white; ">
+                <a href='controlador?op=verPagina&pag="index.jsp"'>  <h2>BTS</h2></a>
+            </div>
         </div>
-
-        <a href="#">
-            ola
-        </a>
-
-        <a href="#">
-            annyeong
-        </a>
     </body>
 </html>
