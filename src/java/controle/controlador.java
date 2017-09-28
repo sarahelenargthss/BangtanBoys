@@ -22,41 +22,42 @@ public class controlador extends HttpServlet {
         response.setContentType("text/html;charset=UTF-8");
         request.setCharacterEncoding("UTF-8");
         try (PrintWriter out = response.getWriter()) {
-            String op = request.getParameter("op");
-            if (op.equals("incluiPrograma")) {
-                HttpSession ses = request.getSession(true);
-                ProgramaDAO pdao = new ProgramaDAO();
-                boolean erro = false;
-                Programa p = new Programa();
-                try {
-                    p.setNome(request.getParameter("nome"));
-                    p.setMembros(request.getParameter("membros"));
-                    p.setEmissora(request.getParameter("canal"));
-                    p.setEpisodios(request.getParameter("episodio"));
-                    p.setAno(Integer.parseInt(request.getParameter("ano")));
-                    p.setTipo(request.getParameter("tipo"));
-                } catch (Exception e) {
-                    erro = true;
-                }
-                if (erro) {
-                    ses.setAttribute("idImagem",
-                            "img/logos/erro.gif");
-                    ses.setAttribute("mensagem",
-                            "Algum campo foi preenchido incorretamente!");
-                    rd = request.getRequestDispatcher("mensagem.jsp");
-                    rd.forward(request, response);
-                } else {
-                    if (((p.getNome().equals("")) || (p.getMembros().equals(""))
-                            || (p.getEmissora().equals("")) || (p.getAno() < 2013) || (p.getEpisodios().equals(""))) || (pdao.verificaPrograma(p) == 3 || pdao.verificaPrograma(p) == 2)) {
+            try {
+                String op = request.getParameter("op");
+                if (op.equals("incluiPrograma")) {
+                    HttpSession ses = request.getSession(true);
+                    ProgramaDAO pdao = new ProgramaDAO();
+                    boolean erro = false;
+                    Programa p = new Programa();
+                    try {
+                        p.setNome(request.getParameter("nome"));
+                        p.setMembros(request.getParameter("membros"));
+                        p.setEmissora(request.getParameter("canal"));
+                        p.setEpisodios(request.getParameter("episodio"));
+                        p.setAno(Integer.parseInt(request.getParameter("ano")));
+                        p.setTipo(request.getParameter("tipo"));
+                    } catch (Exception e) {
+                        erro = true;
+                    }
+                    if (erro) {
                         ses.setAttribute("idImagem",
                                 "img/logos/erro.gif");
                         ses.setAttribute("mensagem",
-                                "Erro ao inserir programa!!");
+                                "Algum campo foi preenchido incorretamente!");
                         rd = request.getRequestDispatcher("mensagem.jsp");
                         rd.forward(request, response);
                     } else {
+                        if (((p.getNome().equals("")) || (p.getMembros().equals(""))
+                                || (p.getEmissora().equals("")) || (p.getAno() < 2013) || (p.getEpisodios().equals(""))) || (pdao.verificaPrograma(p) == 3 || pdao.verificaPrograma(p) == 2)) {
+                            ses.setAttribute("idImagem",
+                                    "img/logos/erro.gif");
+                            ses.setAttribute("mensagem",
+                                    "Erro ao inserir programa!!");
+                            rd = request.getRequestDispatcher("mensagem.jsp");
+                            rd.forward(request, response);
+                        } else {
 
-                        /*    XML
+                            /*    XML
                           Random rdm = new Random(1000);
 
                         Filmografia flmg = new Filmografia();
@@ -71,54 +72,63 @@ public class controlador extends HttpServlet {
                         } while (cod == cod1);
 
                         if (new ProgramaDAO().inserePrograma(p)) {         
-                         */
-                        if (pdao.inserePrograma(p)) {
+                             */
+                            if (pdao.inserePrograma(p)) {
 
-                            ses.setAttribute("idImagem",
-                                    "img/logos/sucesso1.gif");
-                            ses.setAttribute("mensagem",
-                                    "O programa foi inserido na Filmografia");
-                            // encaminha pra tela de sucesso
-                            rd = request.getRequestDispatcher("mensagem.jsp");
-                            rd.forward(request, response);
-                        } else {
-                            // cria a mensagem de erro
-                            ses.setAttribute("idImagem",
-                                    "img/logos/erro.gif");
-                            ses.setAttribute("mensagem",
-                                    "Erro ao inserir programa!");
-                            // encaminha pra tela de erro
-                            rd = request.getRequestDispatcher("mensagem.jsp");
-                            rd.forward(request, response);
+                                ses.setAttribute("idImagem",
+                                        "img/logos/sucesso1.gif");
+                                ses.setAttribute("mensagem",
+                                        "O programa foi inserido na Filmografia");
+                                // encaminha pra tela de sucesso
+                                rd = request.getRequestDispatcher("mensagem.jsp");
+                                rd.forward(request, response);
+                            } else {
+                                // cria a mensagem de erro
+                                ses.setAttribute("idImagem",
+                                        "img/logos/erro.gif");
+                                ses.setAttribute("mensagem",
+                                        "Erro ao inserir programa!");
+                                // encaminha pra tela de erro
+                                rd = request.getRequestDispatcher("mensagem.jsp");
+                                rd.forward(request, response);
+                            }
                         }
                     }
-                }
-            } else if (op.equals("fazlogin")) {
-                String nome = request.getParameter("user");
-                String senha = request.getParameter("senha");
+                } else if (op.equals("fazlogin")) {
+                    String nome = request.getParameter("user");
+                    String senha = request.getParameter("senha");
 
-                if (nome.equals("jeonyijunparkjaehyun") && senha.equals("011307061015")) {
+                    if (nome.equals("jeonyijunparkjaehyun") && senha.equals("011307061015")) {
+                        HttpSession ses = request.getSession(true);
+                        ses.setAttribute("logado", true);
+
+                        rd = request.getRequestDispatcher("index.jsp");
+                        rd.forward(request, response);
+                    } else {
+                        out.println("Login incorreto!");
+                    }
+
+                } else if (op.equals("fazlogout")) {
                     HttpSession ses = request.getSession(true);
-                    ses.setAttribute("logado", true);
+                    ses.setAttribute("logado", false);
 
                     rd = request.getRequestDispatcher("index.jsp");
                     rd.forward(request, response);
+                } else if (op.equals("voltarPagina")) {
+                    rd = request.getRequestDispatcher("gerenciarPagina.jsp");
+                    rd.forward(request, response);
+                } else if (op.equals("voltarMenu")) {
+                    rd = request.getRequestDispatcher("index.jsp");
+                    rd.forward(request, response);
+                } else if (op.equals("verPagina")) {
+                    String pag = request.getParameter("pag");
+                    rd = request.getRequestDispatcher(pag);
+                    rd.forward(request, response);
                 } else {
-                    out.println("Login incorreto!");
+                    out.println("Ação desconhecida do controlador: " + op);
                 }
-
-            } else if (op.equals("fazlogout")) {
-                HttpSession ses = request.getSession(true);
-                ses.setAttribute("logado", false);
-
-                rd = request.getRequestDispatcher("index.jsp");
-                rd.forward(request, response);
-            } else if (op.equals("voltarPagina")) {
-                rd = request.getRequestDispatcher("gerenciarPagina.jsp");
-                rd.forward(request, response);
-            } else if (op.equals("voltarMenu")) {
-                rd = request.getRequestDispatcher("index.jsp");
-                rd.forward(request, response);
+            }catch(Exception e){
+                out.println("Erro no controlador: " + e.getMessage());
             }
         }
     }

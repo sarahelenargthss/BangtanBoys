@@ -1,4 +1,5 @@
 <%@page import="java.util.ArrayList"%>
+<%@page import="modelo.Filmografia"%>
 <%@page import="java.util.Calendar"%>
 <%@page import="dao.sql.ProgramaDAO"%>
 <%@page import="modelo.Programa"%>
