@@ -36,7 +36,7 @@
         <form method="post" action="controlador" role="form">
             <table id="divformulario">  
                 <input type="hidden" name="op" value="incluiPrograma">                    
-                <tr><td><h1 style="padding-left: 50%;">Filmografia</h1></td></tr>
+                <tr><td><h2 style="padding-left: 50%;">Filmografia</h2></td></tr>
                 <tr><p><td><label> Título</label></td>
                 <td><input type="text" name="nome" placeholder="Nome" /> </td></p></tr>
                 <tr><p><td><label for="username"> Canal </label></td>
@@ -79,7 +79,7 @@
         </div>
         
         <br><br><br>
-        <a href="index.jsp" id="linkVoltar" > Voltar </a>
+        <a href="bts.jsp" id="linkVoltar" > Voltar </a>
 
         <%}
             } catch (Exception e) {

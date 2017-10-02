@@ -1,0 +1,704 @@
+
+
+                    <h3>2013</h3><br>
+
+
+                    <!-- team member -->
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Rookie King: Channel Bangtan</h3>
+                            <span>SBS MTV</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Todos os membros<br>Reality Show do BTS, Episódio 1-8</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->
+                    <!-- team member -->
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>After School Club</h3>
+                            <span>Arirang</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Todos os membros<br>Episódio 24</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->
+                    <br><h3>2014</h3><br>
+                    <!-- team member -->
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Idol Star Athletics Championships</h3>
+                            <span>MBC</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Todos os membros<br> </p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->
+
+                    <!-- team member -->
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>A Song for you</h3>
+                            <span>KBS World</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Todos os membros<br> </p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->
+                    <!-- team member -->
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>4 Things Show - Rap Monster</h3>
+                            <span>Mnet</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Rap Monster<br>Documentario sobre Rap Monster, Episodio 3</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->		
+
+
+                    <!-- team member -->
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>American Hustle Life</h3>
+                            <span>Mnet</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Todos os membros<br>Reality Show do BTS, Episódio 1-8</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->		
+
+
+                    <!-- team member -->
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Yinyuetai BTS China Job</h3>
+                            <span> </span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Todos os membros<br> </p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->
+
+                    <!-- team member -->
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>BTS GO!</h3>
+                            <span>Mnet America </span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Todos os membros<br>Reality Show do BTS, Episodio 7</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->			
+                    <!-- team member -->
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>After School Club</h3>
+                            <span>Arirang</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Todos os membros<br>Episódio 46</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->				
+
+
+                    <!-- team member -->
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Weekly Idol </h3>
+                            <span>MBC Every 1 </span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Todos os membros<br>Episodio 144 </p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->					
+
+
+                    <!-- team member -->
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>ASC After Show</h3>
+                            <span>Arirang</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Rap Monster e Jimin<br>Episodio 56 </p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->					
+
+
+                    <!-- team member -->
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>ASC After Show</h3>
+                            <span>Arirang</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Rap Monster<br>Episodio 63 e 64 </p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->						
+
+
+                    <!-- team member -->
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Beatles Code 3D </h3>
+                            <span>Mnet</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Todos os membros<br> </p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->					
+
+
+                    <!-- team member -->
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>ASC After Show</h3>
+                            <span>Arirang</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Rap Monster, Jimin e Jungkook<br>Episodio 68 e 70 </p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->
+                    <!-- team member -->
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>After School Club</h3>
+                            <span>Arirang</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Todos os membros<br>Episódio 95</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->						
+
+
+                    <!-- team member -->
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>100 Choice, Best Ramyun </h3>
+                            <span>MBC Every 1 </span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>J-Hope<br> </p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->
+                    <br><h3>2015</h3>
+
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Problematic Men</h3>
+                            <span>TVN </span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Rap Monster<br>Episódio 1-22</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>4 Things Show - MFBTY</h3>
+                            <span>Mnet</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Rap Monster<br>Documentário sobre Tiger JK, Episódio 11</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Yaman TV</h3>
+                            <span>Mnet</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Todos os membros<br>Episódio 24</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->	
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Hello Counselor </h3>
+                            <span>KBS</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Rap Monster e V<br>Episódio 233</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->		
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Star King</h3>
+                            <span>SBS</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Rap Monster e V<br>Episódio 413</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->	
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Running Man</h3>
+                            <span>SBS</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Rap Monster<br>Episódio 265</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->	
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Same Bed, Different Dreams</h3>
+                            <span>SBS</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Rap Monster<br>Episódio 32</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->	
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Quiz to Change the World</h3>
+                            <span>MBC</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Rap Monster<br>Episódio 315</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Weekly Idol</h3>
+                            <span>MBC Every 1</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Todos os Membros<br>Episódio 203 e 229</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>After School Club</h3>
+                            <span>Arirang</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Todos os Membros<br>Episódio 158</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Idol Star Athletics Championships</h3>
+                            <span>MBC</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Todos os Membros<br>Chuseok Special PT. 1 e Chuseok Special PT. 2</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>After School Club</h3>
+                            <span>Arirang</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Todos os Membros<br>Episódio 191</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->
+                    <br><h3>2016</h3> 	
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Birth of a Rapstar</h3>
+                            <span>MBC</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Rap Monster<br>Documentário Especial</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->	
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>The Boss is Watching</h3>
+                            <span>SBC</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Todos os Membros<br>Episódio 1</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->	
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Idol Star Athletics Championships</h3>
+                            <span>MBC</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Todos os Membros<br>Lunar New Year Special PT.1 e Lunar New Year Special PT.2</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->	
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>National Idol Singing Contest</h3>
+                            <span>KBS2</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Todos os Membros<br>Episódio 1</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->	
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Celebrity Bromance</h3>
+                            <span>MBig TV</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>V<br>Reality Show Móvel com Kim Min-Jae, Episódio 1-4</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->	
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Star King</h3>
+                            <span>SBS</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>J-Hope e V<br> </p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->	
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Close-Up Observation Diary on Idol: Find Me</h3>
+                            <span>MBig TV</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Rap Monster<br>Reality Show Sobre sua Vida Diaria, Episódio 2</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->	
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Star King</h3>
+                            <span>SBS</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Rap Monster, J-Hope e Jimin<br> </p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->	
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Running Man</h3>
+                            <span>SBS</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Todos os Membros<br>Episódio 300</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->	
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Celebrity Bromance</h3>
+                            <span>MBig TV</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Jungkook<br>Reality Show Móvel com Lee Min-Woo</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->	
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Duet Song Festival</h3>
+                            <span>MBC</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Rap Monster<br>Episódio 13</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->	
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>God's Workplace</h3>
+                            <span>SBS</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Jimin e J-Hope<br>Episódio 1</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>King of Mask Singer</h3>
+                            <span>MBC</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Jungkook<br>Participante como "Fencing Man", Episódio 71-72</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->	
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Idol Chef King</h3>
+                            <span>MBC</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Jin<br>Chuseok Special</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->	
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Idol Star Athletics Championships</h3>
+                            <span>MBC</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>Todos os Membros<br>V não participou por causa do cronograma de filmagem de Hwarang </p>
+                        </div>
+                        <!-- /about member -->
+                    </article>
+                    <!-- end team member -->	
+                    <br><h2>Dramas</h2>
+                    <h3>2016</h3>
+                    <article id="filmografia" class="team-mate">
+                        <!-- member name & designation -->
+                        <div class="member-title">
+                            <h3>Hwarang: The Beginning</h3>
+                            <span>KBS2</span>
+                        </div>
+                        <!-- /member name & designation -->
+
+                        <!-- about member -->
+                        <div class="member-info">
+                            <p>V<br>Personagem: Han-Sung</p>
+                        </div>
+                        <!-- /about member -->
+                    </article>

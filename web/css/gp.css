@@ -1,16 +1,18 @@
 body{
-    background-image: url('45.jpg');
-    color: #56bedd;
+    background-image: url('123.jpg');
+    background-size: cover;
+    color: #186f89;
     font: 20px/25px 'arial';
     
     background-size: 100% auto;
 }
 
-h3{
-    color: #528ab7;
+h1{
+    color: #FFF;
 }
 
 #divformulario {
+    background: rgba(255,255,255, 0.6);
     border:1px solid white; 
     width: 29%;
     padding: 15px;
@@ -28,6 +30,7 @@ a{
 }
 
 #divfilmografia{
+    background: rgba(255,255,255, 0.6);
     width: 50%;
     padding: 10px;
     height: 415px;
@@ -53,7 +56,8 @@ a{
 }
 
 #botao{
-    margin-left: 60%;
+    padding: 10px;
+    margin-left: 63%;
 }
 
 

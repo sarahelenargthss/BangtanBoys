@@ -35,7 +35,7 @@
               
             </form>
         </div>
-        <a href="index.jsp">
+        <a href="bts.jsp">
             <img id="voltar" src="img/back.png"  />  
         </a>
         <div id="logout">
@@ -53,7 +53,7 @@
 
         <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 
-        <script src="js/index.js"></script>
+        <script src="js/bts.js"></script>
 
     </body>
 </html>
