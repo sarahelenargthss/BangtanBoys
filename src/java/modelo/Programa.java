@@ -9,6 +9,15 @@ public class Programa {
     int ano;
     int codPrograma;
     String tipo;
+    String grupo;
+
+    public String getGrupo() {
+        return grupo;
+    }
+
+    public void setGrupo(String grupo) {
+        this.grupo = grupo;
+    }
 
     public String getTipo() {
         return tipo;

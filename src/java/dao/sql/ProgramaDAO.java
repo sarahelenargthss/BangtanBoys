@@ -12,7 +12,7 @@ public class ProgramaDAO {
 
     public PreparedStatement retornaConexao(String sql) {
         //retorna a coneão com o BD
-        String str = "jdbc:mysql://localhost:3306/bts?" + "user=root&password=alunoifc";
+        String str = "jdbc:mysql://localhost:3306/grupo?" + "user=root&password=alunoifc";
         PreparedStatement p;
         try {           
             DriverManager.registerDriver(new com.mysql.jdbc.Driver());
@@ -43,13 +43,14 @@ public class ProgramaDAO {
     
     public boolean inserePrograma(Programa programa){
         try {
-            PreparedStatement p = retornaConexao("insert into filmografia (titulo, canal, episodios, membros, ano, tipo) values(?, ?, ?, ?, ?, ?);");
+            PreparedStatement p = retornaConexao("insert into filmografia (titulo, canal, episodios, membros, ano, tipo, grupo) values(?, ?, ?, ?, ?, ?, ?);");
             p.setString(1, programa.getNome());
             p.setString(2, programa.getEmissora());
             p.setString(3, programa.getEpisodios());
             p.setString(4, programa.getMembros());
             p.setInt(5, programa.getAno());
             p.setString(6, programa.getTipo());
+            p.setString(7, programa.getGrupo());
             p.execute();
         } catch (SQLException e) {
             return false;
@@ -57,10 +58,11 @@ public class ProgramaDAO {
         return true;
     }
     
-    public ArrayList<Programa> carregaListaDeProgramas() {
+    public ArrayList<Programa> carregaListaDeProgramas(String grupo) {
         ArrayList<Programa> programas = new ArrayList();
         try{
-            PreparedStatement p = retornaConexao("select * from filmografia;");
+            PreparedStatement p = retornaConexao("select * from filmografia where grupo = ?");
+            p.setString(1, grupo);
             ResultSet rs = p.executeQuery();
              while (rs.next()) {
                 Programa programa = new Programa(rs.getString(1), rs.getString(2), rs.getString(3), rs.getString(4), rs.getInt(5), rs.getInt(6), rs.getString(7));

@@ -23,9 +23,10 @@ public class controlador extends HttpServlet {
         request.setCharacterEncoding("UTF-8");
         try (PrintWriter out = response.getWriter()) {
             try {
+                    HttpSession ses = request.getSession(true);
                 String op = request.getParameter("op");
                 if (op.equals("incluiPrograma")) {
-                    HttpSession ses = request.getSession(true);
+                    ses = request.getSession(true);
                     ProgramaDAO pdao = new ProgramaDAO();
                     boolean erro = false;
                     Programa p = new Programa();
@@ -36,6 +37,7 @@ public class controlador extends HttpServlet {
                         p.setEpisodios(request.getParameter("episodio"));
                         p.setAno(Integer.parseInt(request.getParameter("ano")));
                         p.setTipo(request.getParameter("tipo"));
+                        p.setGrupo((String)ses.getAttribute("grupo"));
                     } catch (Exception e) {
                         erro = true;
                     }
@@ -99,7 +101,7 @@ public class controlador extends HttpServlet {
                     String senha = request.getParameter("senha");
 
                     if (nome.equals("jeonyijunparkjaehyun") && senha.equals("011307061015")) {
-                        HttpSession ses = request.getSession(true);
+                        ses = request.getSession(true);
                         ses.setAttribute("logado", true);
 
                         rd = request.getRequestDispatcher("bts.jsp");
@@ -109,7 +111,7 @@ public class controlador extends HttpServlet {
                     }
 
                 } else if (op.equals("fazlogout")) {
-                    HttpSession ses = request.getSession(true);
+                    ses = request.getSession(true);
                     ses.setAttribute("logado", false);
 
                     rd = request.getRequestDispatcher("bts.jsp");

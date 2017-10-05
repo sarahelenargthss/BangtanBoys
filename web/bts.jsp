@@ -10,6 +10,12 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
     <head>
+
+        <%
+            HttpSession ses = request.getSession(true);
+            ses.setAttribute("grupo", "bts");
+        %>
+
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="description" content="Meghna One page parallax responsive HTML Template ">
 
@@ -67,7 +73,7 @@
         <div id="loading-mask">
             <div class="loading-img">
                 <img alt="Meghna Preloader" src="bts/img/bts5.gif"  />
-                <img id="logobts" alt="logo" src="bts/img/logo3.png"  />
+                <img id="logoG" alt="logo" src="bts/img/logo3.png"  />
             </div>
         </div>
         <!--
@@ -88,7 +94,7 @@
                             <img id=imagem3 src=bts/img/bts2.jpg alt=bts9>
                             <div class="carousel-caption">
                                 <div>
-                                    <img id="logobangtan" class="wow fadeInUp" src="bts/img/bts4.gif" alt="Meghna">
+                                    <img id="logoGrupo" class="wow fadeInUp" src="bts/img/bts4.gif" alt="Meghna">
                                 </div>
                             </div>
                         </div>
@@ -146,7 +152,7 @@
                     <!-- logo -->
                     <a class="navbar-brand" href="#body">
                         <h1 id="logo">
-                            <img id="logobts" 
+                            <img id="logoG" 
                                  src="bts/img/logo3.png" alt="Meghna" />
                         </h1>
                     </a>
@@ -562,7 +568,7 @@
                         <%
                             String tipo;
                             String valor;
-                            for (int s = 0; s <=1; s++) {
+                            for (int s = 0; s <= 1; s++) {
                                 if (s == 0) {
                                     tipo = "Programas de Variedade";
                                     valor = "programa";
@@ -573,15 +579,16 @@
                         %> 
                     <h2><%out.println(tipo);%></h2> 
                     <%
+                        ses = request.getSession(true);
                         ProgramaDAO pdao = new ProgramaDAO();
                         Filmografia flmg = new Filmografia();
-                        ArrayList<Programa> programas = pdao.carregaListaDeProgramas();
+                        flmg.setFilmografia(pdao.carregaListaDeProgramas((String)ses.getAttribute("grupo")));
 
                         int max = Calendar.getInstance().get(Calendar.YEAR);
                         boolean mostraAno;
                         for (int i = 2013; i <= max; i++) {
                             mostraAno = false;
-                            for (Programa p : programas) {
+                            for (Programa p : flmg.getFilmografia()) {
                                 if (p.getAno() == i && p.getTipo().equals(valor)) {
                                     if (!mostraAno) {
                     %>
@@ -820,7 +827,7 @@
                         <!-- copyright -->
                         <div class="copyright text-center">
                             <a href=telalogin.jsp>
-                                <img id="logobts" src="bts/img/bts1.png" alt="Meghna" /> 
+                                <img id="logoG" src="bts/img/bts1.png" alt="Meghna" /> 
                             </a>
                             <br/>
                         </div>
@@ -833,7 +840,7 @@
 
         <% try {
 
-                HttpSession ses = request.getSession(true);
+                ses = request.getSession(true);
                 Boolean login = (Boolean) ses.getAttribute("logado");
                 if ((login != null) && (login)) {
         %>

@@ -60,7 +60,7 @@
         <div id="divfilmografia">
             <% ProgramaDAO pdao = new ProgramaDAO();
                 Filmografia flmg = new Filmografia();
-                flmg.setFilmografia(pdao.carregaListaDeProgramas());
+                flmg.setFilmografia(pdao.carregaListaDeProgramas((String)ses.getAttribute("grupo")));
                 //quebra de linha entre links nao funcionou
                 for (Programa p : flmg.getFilmografia()) {
             %><a href=
