@@ -1,5 +1,9 @@
 package teste;
 
+import dao.sql.ProgramaDAO;
+import modelo.Filmografia;
+import modelo.Programa;
+
 public class TestaDAO {
 
     public static void main(String[] args) {
@@ -40,5 +44,14 @@ public class TestaDAO {
         
         */
 
+        ProgramaDAO pdao = new ProgramaDAO();
+                        Filmografia flmg = new Filmografia();
+                        flmg.setFilmografia(pdao.carregaListaDeProgramas("bts"));
+
+                        for (Programa p : flmg.getFilmografia()) {
+                            System.out.println(p.getNome());
+                        }
+                            
+    
     }
 }
