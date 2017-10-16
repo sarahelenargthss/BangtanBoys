@@ -29,7 +29,7 @@
     <body>
         <div class="slide" style="background: url('img/grupos/e.jpg') fixed; background-size: 100%;">
             <div style="padding-left: 45%; background: rgba(0,0,0,0.6); width: auto; height: 450px; color: white; ">
-                <a href='controlador?op=verPagina&pag=nuest.jsp'><h2>EXO</h2></a>
+                <a href='controlador?op=verPagina&pag=got7.jsp'><h2>EXO</h2></a>
             </div>
         </div>
 

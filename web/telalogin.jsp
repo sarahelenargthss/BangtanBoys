@@ -35,12 +35,14 @@
               
             </form>
         </div>
-        <a href="bts.jsp">
+        <%
+            HttpSession ses = request.getSession(true);
+        %>
+        <a href="controlador?op=verPagina&pag=<%out.println(ses.getAttribute("grupo"));%>.jsp">
             <img id="voltar" src="img/back.png"  />  
         </a>
         <div id="logout">
               <% try {
-                        HttpSession ses = request.getSession(true);
                         Boolean login = (Boolean) ses.getAttribute("logado");
                         if ((login != null) && (login)) {
                 %>

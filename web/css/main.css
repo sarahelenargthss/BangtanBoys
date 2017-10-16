@@ -27,7 +27,7 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 ==================================================================*/
 
 body {
-    background-color: #e5b5b5;
+    background-color: #2B2C30;
 	font-family: 'Ubuntu', 'Arial', sans-serif;
     line-height: 1.5;
     color: #ddd;
@@ -144,7 +144,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 #loading-mask {
-    background: #ffd1d1;
+    background: #333439;
     height: 100%;
     left: 0;
     opacity: 1;
@@ -279,7 +279,7 @@ h1, h2, h3, h4, h5, h6 {
 ==================================================================*/
 
 .navbar-inverse {
-	background-color:  #e5b5b5;
+	background-color:  #2B2C30;
 	width: 100%;
 	z-index: 99;
 }

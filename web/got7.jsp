@@ -13,7 +13,7 @@
 
         <%
             HttpSession ses = request.getSession(true);
-            ses.setAttribute("grupo", "bts");
+            ses.setAttribute("grupo", "got7");
         %>
 
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -197,10 +197,9 @@
                                 <!-- features content -->
                                 <div class="col-md-6 feature-desc wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
                                     <h3>Sobre o grupo</h3><br>
-                                    <p>BTS, também conhecido como Bangtan Boys, é um grupo sul-coreano composto de sete membros formado pela Big Hit Entertainment em 2013.</p>
-                                    <p>BTS fez sua estreia oficial em 13 de junho de 2013 com o lançamento do single "No More Dream" do álbum 2 Cool 4 Skool.</p>
-                                    <p>Os sete integrantes são: Jin, Suga, J-hope, Rap Monster, Jimin, V e Jungkook.</p>
-                                    <p>Jimin foi o último a entrar no grupo e V foi o único a ser revelado apenas no debut.</p>
+                                    <p>GOT7 é um boy group de K-pop com sede na Coreia do Sul. </p>
+                                    <p>Formado pela JYP Entertainment em 2014, o grupo é composto por sete membros, dois dos quais originalmente estrearam na dupla JJ Project em 2012. </p>
+                                    <p>Sua formação atual é: JB, Mark, Jinyoung, Jackson, Youngjae, Bambam e Yugyeom.</p>
                                 </div>
                                 <!-- /features content -->
 
@@ -218,11 +217,10 @@
 
                                 <!-- features content -->
                                 <div class="col-md-6 feature-desc wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-                                    <h3>Sobre o grupo</h3>
-                                    <p>O grupo teve várias mudanças de membros durante o processo de formação, alguns sempre saíam do grupo, o único que realmente ficou foi Rap Monster (Kim Namjoon). O grupo deveria ter debutado em 2010 mas como não foi possível por causa da saída de membros, debutaram no ano de 2013.</p>
-                                    <p>Os ex-membros são: Shin Donghyuk (Supreme Boi), Choi Ikje (i11evn), Jin Hyosang (Kidoh) e Jung Hunchul (Iron).</p>
-                                    <p>Eles também tiveram o seu próprio programa de variedades intitulado como Rookie King: Channel Bangtan, que foi ao ar através da SBS MTV em oito episódios.</p>
-
+                                    <h3>Sobre o grupo</h3><br>
+                                    <p>O grupo foi introduzido ao público através de um episódio do reality show da Mnet Who is Next: WIN, que foi transmitido em 6 de setembro de 2013.</p>
+                                    <p>No episódio, quatro membros competiram contra os trainees da YG Entertainment: Team A (agora conhecido como Winner) e Team B (agora conhecido como iKON). Em 16 de janeiro de 2014, GOT7 realizou sua estreia oficial com o lançamento do single "Girls Girls Girls".</p>
+                                 
                                 </div>
                                 <!-- /features content -->
 

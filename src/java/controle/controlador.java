@@ -104,7 +104,7 @@ public class controlador extends HttpServlet {
                         ses = request.getSession(true);
                         ses.setAttribute("logado", true);
 
-                        rd = request.getRequestDispatcher("bts.jsp");
+                        rd = request.getRequestDispatcher(ses.getAttribute("grupo") + ".jsp");
                         rd.forward(request, response);
                     } else {
                         out.println("Login incorreto!");
@@ -114,13 +114,13 @@ public class controlador extends HttpServlet {
                     ses = request.getSession(true);
                     ses.setAttribute("logado", false);
 
-                    rd = request.getRequestDispatcher("bts.jsp");
+                    rd = request.getRequestDispatcher(ses.getAttribute("grupo") + ".jsp");
                     rd.forward(request, response);
                 } else if (op.equals("voltarPagina")) {
                     rd = request.getRequestDispatcher("gerenciarPagina.jsp");
                     rd.forward(request, response);
                 } else if (op.equals("voltarMenu")) {
-                    rd = request.getRequestDispatcher("bts.jsp");
+                    rd = request.getRequestDispatcher(ses.getAttribute("grupo") + ".jsp");
                     rd.forward(request, response);
                 } else if (op.equals("verPagina")) {
                     String pag = request.getParameter("pag");
