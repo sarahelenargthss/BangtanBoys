@@ -298,7 +298,7 @@
                     <!-- End Single Service Item -->
 
                     <!-- Single Service Item -->
-                    <article id="premio"class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
+                    <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
                         <div class="service-block text-center kill-margin-bottom">
                             <h3>Korean Popular Culture And Arts Awards</h3>
                             <p><b>2016</b><br>BTS - Culture Minister Award<br><br><br><br><br><br><br></p>
