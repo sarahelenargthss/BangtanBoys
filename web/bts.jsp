@@ -98,7 +98,7 @@
                     <!-- single slide item -->
                     <div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
                         <div class="sl-slide-inner">
-                            <img id=imagem3 src=bts/img/bts2.jpg alt=bts9>
+                            <img id=imagem3 src=bts/img/btsoi.jpg alt=bts9>
                             <div class="carousel-caption">
                                 <div>
                                     <img id="logoGrupo" class="wow fadeInUp" src="bts/img/bts4.gif" alt="Meghna">

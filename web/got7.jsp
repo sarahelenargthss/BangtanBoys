@@ -519,10 +519,10 @@
                 <ul id="og-grid" class="og-grid">
                     <!-- single portfolio item -->	
                     <li class="mix app">
-                        <a href="javascript:void(0)" data-largesrc= "got7/img/int/mark.jpg" data-title="Kim Seokjin" data-description="Nome Artístico: Jin <br>Data de Nascimento: 04/12/1992 <br>Cidade Natal: Gwacheon <br>Posição: Vocalista e Visual<br>Altura: 1,79<br>Cor Favorita: Rosa<br>Comida Favorita: Lagosta, carne, naengmyeon (macarrão frio), frango, alimentos gordurosos">
+                        <a href="javascript:void(0)" data-largesrc= "got7/img/int/mark11.jpg" data-title="Mark​ Yien​ Tuan" data-description="Nome Artístico: Mark <br>Data de Nascimento: 04/09/1993 <br>Cidade Natal: Los Angeles, Califórnia <br>Posição: Rapper,​ Dançarino,​ Vocalista​ de​ apoio,​ ​ Visual<br>Altura: 175cm<br>Peso: 59kg<br>Tipo Sanguíneo: A">
                             <img id="integrantes" src="got7/img/int/mark1.jpg" alt="Meghna">
                             <div class="hover-mask">
-                                <h3>Jin</h3>
+                                <h3>Mark</h3>
                                 <span>
                                     <i class="fa fa-plus fa-2x"></i>
                                 </span>
@@ -533,10 +533,10 @@
 
                     <!-- single portfolio item -->
                     <li class="mix web">
-                        <a href="javascript:void(0)" data-largesrc="bts/img/int/suga2.jpg" data-title="Min Yoongi" data-description="Nome Artístico: Suga<br>Data de Nascimento: 09/03/1993 <br>Cidade Natal: Daegu <br>Posição: Rapper<br>Altura: 1,76<br>Cor Favorita: Branco<br>Comida Favorita: Carne, carne, carne">
+                        <a href="javascript:void(0)" data-largesrc="got7/img/int/jb11.jpg" data-title="Im Jaebum" data-description="Nome Artístico: JB <br>Data de Nascimento: 06/01/1994 <br>Cidade Natal: Ilsan,​ Gyeonggi<br>Posição: Líder,​ Vocal​ principal,​ Dançarino​ principal<br>Altura: 179cm<br>Peso: 66kg<br>Tipo Sanguíneo: A">
                             <img id="integrantes" src="got7/img/int/jb1.jpg" alt="Meghna">
                             <div class="hover-mask">
-                                <h3>Suga</h3>
+                                <h3>JB</h3>
                                 <span>
                                     <i class="fa fa-plus fa-2x"></i>
                                 </span>
@@ -547,10 +547,10 @@
 
                     <!-- single portfolio item -->
                     <li class="mix photoshop">
-                        <a href="javascript:void(0)" data-largesrc="bts/img/int/rm3.jpg" data-title="Kim Namjoon" data-description="Nome Artístico: Rap Monster <br>Data de Nascimento: 12/09/1994 <br>Cidade Natal: Ilsan <br>Posição: Líder, rapper e compositor<br>Altura: 1,81<br>Cor Favorita: Preto<br>Comida Favorita: Carne, Korean knife noodles (Macarrão coreano)">
+                        <a href="javascript:void(0)" data-largesrc="got7/img/int/jackson11.jpg" data-title="Jackson Wang" data-description="Nome Artístico: Jackson<br>Data de Nascimento: 28/03/1994 <br>Cidade Natal: Hong Kong<br>Posição:Rapper,​ Dançarino,​ Vocalista​ de​ apoio<br>Altura: 174cm<br>Peso: 63kg<br>Tipo Sanguíneo: O">
                             <img id="integrantes" src="got7/img/int/jack1.jpg" alt="Meghna">
                             <div class="hover-mask">
-                                <h3>Rap Monster</h3>
+                                <h3>Jackson</h3>
                                 <span>
                                     <i class="fa fa-plus fa-2x"></i>
                                 </span>
@@ -561,10 +561,10 @@
 
                     <!-- single portfolio item -->
                     <li class="mix illustrator">
-                        <a href="javascript:void(0)" data-largesrc="bts/img/int/jh3.jpg" data-title="Jung Hoseok" data-description="Nome Artístico: J-Hope <br>Data de Nascimento: 18/02/1994 <br>Cidade Natal: Gwangju <br>Posição: Rapper e dançarino<br>Altura: 1,77<br>Cor Favorita: Verde<br>Comida Favorita: Kimchi">
+                        <a href="javascript:void(0)" data-largesrc="got7/img/int/jr11.jpg" data-title="Park Jinyoung" data-description="Nome Artístico: Jinyoung <br>Data de Nascimento: 22/09/1994 <br>Cidade Natal:Jinhae-gu<br>Posição:​ Vocalista​ principal,​ Dançarino,​ Rapper​ de​ apoio<br>Altura: 178cm<br>Peso: 63kg<br>Tipo Sanguíneo: O">
                             <img id="integrantes" src="got7/img/int/jr1.jpg" alt="Meghna">
                             <div class="hover-mask">
-                                <h3>J-Hope</h3>
+                                <h3>Jinyoung</h3>
                                 <span>
                                     <i class="fa fa-plus fa-2x"></i>
                                 </span>
@@ -575,10 +575,10 @@
 
                     <!-- single portfolio item -->
                     <li class="mix app">
-                        <a href="javascript:void(0)" data-largesrc="bts/img/int/jimin2.jpg" data-title="Park Jimin" data-description="Nome Artístico: Jimin <br>Data de Nascimento: 13/10/1995 <br>Cidade Natal: Busan<br>Posição: Vocalista e dançarino<br>Altura: 1,75<br>Cor Favorita: Azul e preto<br>Comida Favorita: Carne (porco, bife, pato, frango), frutas, ensopado (kimchi jjigae)">
+                        <a href="javascript:void(0)" data-largesrc="got7/img/int/youngjae11.jpg" data-title="Choi Youngjae" data-description="Nome Artístico: Youngjae <br>Data de Nascimento: 17/09/1996 <br>Cidade Natal: Mokpo<br>Posição: Vocalista​ principal,​ Dançarino<br>Altura: 177cm<br>Peso: 61kg<br>Tipo Sanguíneo: B">
                             <img id="integrantes" src="got7/img/int/youngjae2.jpg" alt="Meghna">
                             <div class="hover-mask">
-                                <h3>Jimin</h3>
+                                <h3>Youngjae</h3>
                                 <span>
                                     <i class="fa fa-plus fa-2x"></i>
                                 </span>
@@ -589,10 +589,10 @@
 
                     <!-- single portfolio item -->
                     <li class="mix app">
-                        <a href="javascript:void(0)" data-largesrc="bts/img/int/v2.jpg" data-title="Kim Taehyung" data-description="Nome Artístico: V<br>Data de Nascimento: 30/12/1995<br>Cidade Natal: Daegu <br>Posição: Vocalista<br>Altura: 1,78<br>Cor Favorita: Verde, preto e branco<br>Comida Favorita: Japchae, qualquer tipo de carne">
+                        <a href="javascript:void(0)" data-largesrc="got7/img/int/bambam11.jpg" data-title="Kunpimook Bhuwakul" data-description="Nome Artístico: Bambam <br>Data de Nascimento: 02/05/1997 <br>Cidade Natal:​ Bangkok,​ Tailândia<br>Posição: Rapper​ principal,​ Dançarino,​ Vocalista​ de​ apoio<br>Altura: 174cm<br>Peso: 52kg<br>Tipo Sanguíneo: B">
                             <img  id="integrantes" src="got7/img/int/bambam3.jpg" alt="Meghna">
                             <div class="hover-mask">
-                                <h3>V</h3>
+                                <h3>Bambam</h3>
                                 <span>
                                     <i class="fa fa-plus fa-2x"></i>
                                 </span>
@@ -603,10 +603,10 @@
 
                     <!-- single portfolio item -->
                     <li class="mix web">
-                        <a href="javascript:void(0)" data-largesrc="bts/img/int/jk2.jpg" data-title="Jeon Jeongguk" data-description="Nome Artístico: Jungkook <br>Data de Nascimento: 01/09/1997 <br>Cidade Natal: Busan <br>Posição: Maknae, Vocalista, Rapper e Dançarino<br>Altura: 1,77<br>Cor Favorita: Preto, vermelho e branco<br>Comida Favorita: Pão, pizza, qualquer coisa com farinha.">
+                        <a href="javascript:void(0)" data-largesrc="got7/img/int/yugyeom11.jpg" data-title="Kim Yugyeom" data-description="Nome Artístico: Yugyeom <br>Data de Nascimento: 17/11/1997 <br>Cidade Natal:​ Namyangju<br>Posição: Vocalista,​ Dançarino​ principal,​ Maknae<br>Altura: 182cm<br>Peso: 68kg<br>Tipo Sanguíneo: A">
                             <img id="integrantes" src="got7/img/int/yug1.jpg" alt="Meghna">
                             <div class="hover-mask">
-                                <h3>Jungkook</h3>
+                                <h3>Yugyeom</h3>
                                 <span>
                                     <i class="fa fa-plus fa-2x"></i>
                                 </span>
@@ -722,11 +722,11 @@
                         <article id="disco" class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="note kill-margin-bottom">
                                 <div class="media-wrapper">
-                                    <img src="bts/img/discografia/24.jpg" alt="amazing caves coverimage" class="img-responsive">
+                                    <img src="got7/img/discografia/gotit.jpg" alt="amazing caves coverimage" class="img-responsive">
                                 </div>
                                 <div class="excerpt">
-                                    <h3>2 Cool 4 Skool</h3>
-                                    <p>Mini-Álbum<br>Data de lançamento: 12.06.13<br>Gênero: Rap, Hip-Hop & K-Pop<br><b><h3>Faixas:</h3></b><br>Intro: 2 Cool 4 Skool<br>We Are Bulletproof Pt.2<br>Skit: Circle Room Talk<br>No More Dream<br>Interlude<br>I Like It<br>Outro: Circle Room Cypher<br><br><br><br><br><br><br><br></p>
+                                    <h3>Got it?</h3>
+                                    <p>Data de lançamento: 20.01.2014<br><b><h3>Faixas:</h3></b><br>Hello<br>Girls​ Girls Girls<br>I like​ you<br>​ Follow​ me<br>Like​ Oh<br>​Playground<br><br><br><br><br><br><br><br><br></p>
                                 </div>
                             </div>						
                         </article>
@@ -736,11 +736,11 @@
                         <article id="disco" class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="note kill-margin-bottom">
                                 <div class="media-wrapper">
-                                    <img src="bts/img/discografia/82.jpg" alt="amazing caves coverimage" class="img-responsive">
+                                    <img src="got7/img/discografia/gotlove.jpg" alt="amazing caves coverimage" class="img-responsive">
                                 </div>
                                 <div class="excerpt">
-                                    <h3>O!RUL8,2?</h3>
-                                    <p>Mini-Álbum<br>Data de lançamento: 12.09.13<br>Gênero: Rap, Hip-Hop & K-Pop<br><b><h3>Faixas:</h3></b><br>Intro: O!RUL8,2?<br>N.O<br>We On<br>Skit: R U Happy Now?<br>If I Ruled The World<br>Coffee>BTS Cypher Pt.1<br>Rise of Bangtan/Attack on Bangtan<br>Paldogangsan - Satoori Rap<br>Outro: Luv In Skool<br><br><br><br><br><br></p>
+                                    <h3>Got Love</h3>
+                                    <p>Data de lançamento: 23.06.2014<br><b><h3>Faixas:</h3></b><br>U Got​ Me<br>A<br>Bad​ Behavior<br>Good​ Tonight<br>Forever​ Young<br>​A (“collapsedone”​ ​ Remix)<br>​A (TOYO​ ​ Remix)<br>A (FRANTS​ ​ Remix)<br><br><br><br><br><br><br></p>
                                 </div>
                             </div>						
                         </article>
@@ -751,12 +751,12 @@
                         <article id="disco" class="col-md-3 col-sm-6 col-xs-12 clearfix wow fadeInUp" data-wow-duration="500ms">
                             <div class="note">
                                 <div class="media-wrapper">
-                                    <img src="bts/img/discografia/sla.jpg" alt="amazing caves coverimage" class="img-responsive">
+                                    <img src="got7/img/discografia/idt.jpg" alt="amazing caves coverimage" class="img-responsive">
                                 </div>
 
                                 <div class="excerpt">
-                                    <h3>Skool Luv Affair</h3>
-                                    <p>Mini-Álbum<br>Data de lançamento: 12.02.14<br>Gênero: Rap, Hip-Hop & K-Pop<br><b><h3>Faixas:</h3></b><br>Intro: Skool Luv Affair<br>Boy In Luv<br>Skit: Soulmate<br>Where Did You Come From<br>Just One Day<br>Tomorrow<br>BTS Cypher PT.2: Triptych<br>Spine Breaker<br>Jump<br>Outro: Propose<br><br><br><br><br></p>
+                                    <h3>Identify</h3>
+                                    <p>Data de lançamento: 18.11.2014<br><b><h3>Faixas:</h3></b><br>​ Stop​ Stop​ It<br>Gimme<br>Take​ My​ Hand<br>Girl​/Magnetic<br>Interlude<br>Just​ Tonight<br>Turn​ Up The​ Music<br>Stay<br>Moonlight<br>She’s​ a Monster<br>Girls​ Girls​ Girls<br>A<br><br><br></p>
                                 </div>
                             </div>						
                         </article>
@@ -767,12 +767,12 @@
                         <article id="disco" class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="400ms">
                             <div class="note">
                                 <div class="media-wrapper">
-                                    <img src="bts/img/discografia/slase.jpeg" alt="amazing caves coverimage" class="img-responsive">
+                                    <img src="got7/img/discografia/jr.jpg" alt="amazing caves coverimage" class="img-responsive">
                                 </div>
 
                                 <div class="excerpt">
-                                    <h3>Skool Luv Affair Special Addition (Repackage)</h3>
-                                    <p>Mini-Álbum<br>Data de lançamento: 14.05.14<br>Gênero: Rap, Hip-Hop & K-Pop<br><b><h3>Faixas:</h3></b><br>Miss Right<br>I Like It (Slow Jam Remix)<br>Intro: Skool Luv Affair<br>Boy In Luv<br>Skit: Soulmate<br>Where Did You Come From<br>Just One Day<br>Tomorrow<br>BTS Cypher PT.2: Triptych<br>Spine Breaker<br>Jump<br>Outro: Propose<br><br></p>
+                                    <h3>Just Right</h3>
+                                    <p>Data de lançamento: 13.07.2015<br><b><h3>Faixas:</h3></b><br>Just​ Right<br>Before​ The​ Full Moon​ Rises<br>My​ Whole​ Body​ Is​ Reacting<br>Nice<br>Mine<br>Back​ To​ Me<br><br><br><br><br><br><br><br><br></p>
 
                                 </div>
                             </div>						
@@ -781,11 +781,11 @@
                         <article id="disco" class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="note kill-margin-bottom">
                                 <div class="media-wrapper">
-                                    <img src="bts/img/discografia/dw.jpg" alt="amazing caves coverimage" class="img-responsive">
+                                    <img src="got7/img/discografia/mad.jpg" alt="amazing caves coverimage" class="img-responsive">
                                 </div>
                                 <div class="excerpt">
-                                    <h3>DARK&WILD</h3>
-                                    <p>Full-Álbum<br>Data de lançamento: 19.08.14<br>Gênero: Rap, Hip-Hop & K-Pop<br><b><h3>Faixas:</h3></b><br>Intro: What Am I To You<br>Danger<br>War of Hormone<br>Hip-Hop Lover<br>Let Me Know<br>Rain<br>BTS Cypher PT.3: KILLER (Feat. Supreme Boi)<br>Interlude: What Are You Doing<br>Would You Turn Off Your Phone<br>Blanket Kick<br>24/7=Heaven<br>Look Here<br>2nd Grade<br>Outro: Does That Make Sense?</p>
+                                    <h3>MAD</h3>
+                                    <p>Data de lançamento: 30.09.2015<br><b><h3>Faixas:</h3></b><br>​ If​ You​ Do<br>Raise​ Your​ Hand<br>Feeling​ Good<br>GOOD<br>​Eyes​ On​ You<br>I Like It<br>Tic​ Tic​ Tok<br><br><br><br><br><br><br><br></p>
                                 </div>
                             </div>						
                         </article>
@@ -794,11 +794,11 @@
                         <article id="disco" class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="note kill-margin-bottom">
                                 <div class="media-wrapper">
-                                    <img src="bts/img/discografia/mbml.jpg" alt="amazing caves coverimage" class="img-responsive">
+                                    <img src="got7/img/discografia/madw.jpg" alt="amazing caves coverimage" class="img-responsive">
                                 </div>
                                 <div class="excerpt">
-                                    <h3>The Most Beautiful Moment In Life PT.1 (Versão Pink)</h3>
-                                    <p>Mini-Álbum<br>Data de lançamento: 29.04.15<br>Gênero: Rap, Hip-Hop & K-Pop<br><b><h3>Faixas:</h3></b><br>Intro: The Most Beautiful Moment in Life (HwaYang YeonHwa)<br>I NEED U<br>Hold Me Tight<br>SKIT: Expectation!<br>DOPE<br>Fun Boyz<br>Converse High (Lovers High – versão para promoções)<br>Move<br>Outro: Love is Not Over<br><br><br><br></p>
+                                    <h3>MAD​ Winter​ Edition</h3>
+                                    <p>Data de lançamento: 23.11.2015<br><b><h3>Faixas:</h3></b><br>​Confession​ Song<br>Everyday<br>This.Star<br>If​ You​ Do<br>Raise​ ​Your​ Hand<br>Feeling​ Good<br>GOOD<br>​Eyes​ On​ ​You<br>Tic​ Tic​ Tok<br>​ You​ Do​ (Stage​ Ver.)<br><br><br><br><br></p>
                                 </div>
                             </div>						
                         </article>
@@ -807,11 +807,11 @@
                         <article id="disco" class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="note kill-margin-bottom">
                                 <div class="media-wrapper">
-                                    <img src="bts/img/discografia/mbmlw.jpg" alt="amazing caves coverimage" class="img-responsive">
+                                    <img src="got7/img/discografia/dep.jpeg" alt="amazing caves coverimage" class="img-responsive">
                                 </div>
                                 <div class="excerpt">
-                                    <h3>The Most Beautiful Moment In Life PT.1 (Versão White)</h3>
-                                    <p>Mini-Álbum<br>Data de lançamento: 29.04.15<br>Gênero: Rap, Hip-Hop & K-Pop<br><b><h3>Faixas:</h3></b><br>Intro: The Most Beautiful Moment in Life (HwaYang YeonHwa)<br>I NEED U<br>Hold Me Tight<br>SKIT: Expectation!<br>DOPE<br>Fun Boyz<br>Converse High (Lovers High – versão para promoções)<br>Move<br>Outro: Love is Not Over<br><br><br><br></p>
+                                    <h3>FLIGHT​ LOG:​ DEPARTURE</h3>
+                                    <p>Data de lançamento: 21.03.2016<br><b><h3>Faixas:</h3></b><br>Fly<br>Can’t<br>See​ The​ Light<br>Fish<br>Rewind<br>On​ My​ Knees<br>Something​ Good<br>Home​ Run<br><br><br><br><br><br><br></p>
                                 </div>
                             </div>						
                         </article>
@@ -820,11 +820,11 @@
                         <article id="disco" class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="note kill-margin-bottom">
                                 <div class="media-wrapper">
-                                    <img src="bts/img/discografia/mbmlb.jpg" alt="amazing caves coverimage" class="img-responsive">
+                                    <img src="got7/img/discografia/turb.jpg" alt="amazing caves coverimage" class="img-responsive">
                                 </div>
                                 <div class="excerpt">
-                                    <h3>The Most Beautiful Moment In Life PT.2 (Versão Blue)</h3>
-                                    <p>Mini-Álbum<br>Data de lançamento: 30.11.15<br>Gênero: Rap, Hip-Hop & K-Pop<br><b><h3>Faixas:</h3></b><br>Intro: Never Mind<br>RUN<br>Butterfly<br>Whalien 52<br>Ma City<br>Baepsae<br>SKIT: One night in a strange city<br>Autumn Leaves<br>OUTRO: House Of Cards<br><br><br><br><br><br></p>
+                                    <h3>FLIGHT​ LOG:​ TURBULENCE</h3>
+                                    <p>Data de lançamento: 27.09.2016<br><b><h3>Faixas:</h3></b><br>Skyway<br>Hard​ Carry<br>Boom​ x3<br>Prove​ It<br>​ No​ Jam<br>HEY<br>Mayday<br>My​ Home<br>Who’s​ That<br>If<br>Sick<br>Dreamin'<br>Let​ Me<br><br></p>
                                 </div>
                             </div>						
                         </article>
@@ -835,49 +835,11 @@
                         <article id="disco" class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="note kill-margin-bottom">
                                 <div class="media-wrapper">
-                                    <img src="bts/img/discografia/mbmlp.jpg" alt="amazing caves coverimage" class="img-responsive">
+                                    <img src="got7/img/discografia/arr.jpg" alt="amazing caves coverimage" class="img-responsive">
                                 </div>
                                 <div class="excerpt">
-                                    <h3>The Most Beautiful Moment In Life PT.2 (Versão Peach)</h3>
-                                    <p>Mini-Álbum<br>Data de lançamento: 30.11.15<br>Gênero: Rap, Hip-Hop & K-Pop<br><b><h3>Faixas:</h3></b><br>Intro: Never Mind<br>RUN<br>Butterfly<br>Whalien 52<br>Ma City<br>Baepsae<br>SKIT: One night in a strange city<br>Autumn Leaves<br>OUTRO: House Of Cards<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
-                                </div>
-                            </div>						
-                        </article>
-                        <!-- end single blog post --><!-- single blog post -->
-                        <article id="disco" class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="600ms">
-                            <div class="note kill-margin-bottom">
-                                <div class="media-wrapper">
-                                    <img src="bts/img/discografia/mbmld.jpg" alt="amazing caves coverimage" class="img-responsive">
-                                </div>
-                                <div class="excerpt">
-                                    <h3>The Most Beautiful Moment In Life, Young Forever (Versão Day)</h3>
-                                    <p>Álbum especial<br>Data de lançamento: 02.05.16<br>Gênero: Rap, Hip-Hop & K-Pop<br><b><h3>Faixas CD 1:</h3></b><br>Intro: The Most Beutiful Moment in Life (HwaYang YeonHwa)<br>I NEED U<br>Hold Me Tight<br>Autumn Leaves<br>Butterfly (Prologue Remix)<br>RUN<br>Ma City<br>DOPE<br>Fire<br>Save Me<br>Epilogue: Young Forever<br><b><h3>Faixas CD 2:</h3></b>Converse High<br>Move<br>Whalien 52<br>Butterfly<br>House of Cards (Full Length Edition)<br>Love Is Not Over (Full Length Edition)<br>I NEED U (Urban Remix)<br>I NEED U (Remix)<br>RUN (Ballad Remix)<br>RUN (Alternative Remix)<br>Butterfly (Alternative Remix)<br><br><br></p>
-                                </div>
-                            </div>						
-                        </article>
-                        <!-- end single blog post -->
-                        <!-- single blog post -->
-                        <article id="disco" class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="600ms">
-                            <div class="note kill-margin-bottom">
-                                <div class="media-wrapper">
-                                    <img src="bts/img/discografia/mbmln.jpg" alt="amazing caves coverimage" class="img-responsive">
-                                </div>
-                                <div class="excerpt">
-                                    <h3>The Most Beautiful Moment In Life, Young Forever (Versão Night)</h3>
-                                    <p>Álbum especial<br>Data de lançamento: 02.05.16<br>Gênero: Rap, Hip-Hop & K-Pop<br><b><h3>Faixas CD 1:</h3></b><br>Intro: The Most Beutiful Moment in Life (HwaYang YeonHwa)<br>I NEED U<br>Hold Me Tight<br>Autumn Leaves<br>Butterfly (Prologue Remix)<br>RUN<br>Ma City<br>DOPE<br>Fire<br>Save Me<br>Epilogue: Young Forever<br><b><h3>Faixas CD 2:</h3></b>Converse High<br>Move<br>Whalien 52<br>Butterfly<br>House of Cards (Full Length Edition)<br>Love Is Not Over (Full Length Edition)<br>I NEED U (Urban Remix)<br>I NEED U (Remix)<br>RUN (Ballad Remix)<br>RUN (Alternative Remix)<br>Butterfly (Alternative Remix)<br></p>
-                                </div>
-                            </div>						
-                        </article>
-                        <!-- end single blog post -->
-                        <!-- single blog post -->
-                        <article id="disco" class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="600ms">
-                            <div class="note kill-margin-bottom">
-                                <div class="media-wrapper">
-                                    <img src="bts/img/discografia/w.jpg" alt="amazing caves coverimage" class="img-responsive">
-                                </div>
-                                <div class="excerpt">
-                                    <h3>Wings</h3>
-                                    <p>Full-Álbum<br>Data de lançamento: 10.10.2016<br>Gênero:Rap, Hip-Hop & K-Pop<br><b><h3>Faixas:</h3></b><br>INtro: Boys Meets Evil<br>Blood Sweat and Tears<br>Begin<br>Lie<br>Stigma<br>First LOve<br>Reflection<br>MAMA<br>Awake<br>Lost<br>BTS Cypher 4<br>Am I Wrong<br>21st Century Girls<br>Two! Three! (Still Wishing There Will Be Better Days)<br>Interlude: Wings<br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
+                                    <h3>FLIGHT​ ​ LOG:​ ​ ARRIVAL</h3>
+                                    <p>Data de lançamento: 13.03.2017<br><b><h3>Faixas:</h3></b><br>​ Never​ Ever<br>​Shopping​ Mall<br>Paradise<br>Sign<br>Go​ Higher<br>Q<br>Don't Care<br><br><br><br><br><br><br><br></p>
                                 </div>
                             </div>						
                         </article>
@@ -900,7 +862,7 @@
                         <!-- copyright -->
                         <div class="copyright text-center">
                             <a href=telalogin.jsp>
-                                <img id="logoG" src="bts/img/bts1.png" alt="Meghna" /> 
+                                <img id="logoG" src="got7/img/got7.png" alt="Meghna" /> 
                             </a>
                             <br/>
                         </div>

@@ -27,15 +27,15 @@
     </head>
 
     <body>
-        <div class="slide" style="background: url('img/grupos/e.jpg') fixed; background-size: 100%;">
+        <div class="slide" style="background: url('img/grupos/bts.jpg') fixed; background-size: 100%;">
             <div style="padding-left: 45%; background: rgba(0,0,0,0.6); width: auto; height: 450px; color: white; ">
-                <a href='controlador?op=verPagina&pag=got7.jsp'><h2>EXO</h2></a>
+                <a href='controlador?op=verPagina&pag=got7.jsp'><h2>BTS</h2></a>
             </div>
         </div>
 
-        <div class="slide" style="background: url('img/grupos/b.jpg') fixed; background-size: 100%;">
+        <div class="slide" style="background: url('img/grupos/got71.png') fixed; background-size: 100%;">
             <div style="padding-left: 40%; background: rgba(0,0,0,0.6); width: auto; height: 450px; color: white; ">
-                <a href='controlador?op=verPagina&pag=bts.jsp'> <h2>BOYFRIEND</h2></a>
+                <a href='controlador?op=verPagina&pag=bts.jsp'> <h2>GOT7</h2></a>
             </div>
         </div>
         <div class="slide" style="background: url('img/grupos/mt.jpg') fixed; background-size: 100%;">
