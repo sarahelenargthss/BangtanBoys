@@ -510,11 +510,10 @@
             <!-- portfolio items -->
             <div class="portfolio-item-wrapper wow fadeInUp" data-wow-duration="500ms">
                 <ul id="og-grid" class="og-grid">
-
                     <!-- single portfolio item -->	
                     <li class="mix app">
-                        <a href="javascript:void(0)" data-largesrc= "bts/img/int/jin2.jpg" data-title="Kim Seokjin" data-description="Nome Artístico: Jin <br>Data de Nascimento: 04/12/1992 <br>Cidade Natal: Gwacheon <br>Posição: Vocalista e Visual<br>Altura: 1,79<br>Cor Favorita: Rosa<br>Comida Favorita: Lagosta, carne, naengmyeon (macarrão frio), frango, alimentos gordurosos">
-                            <img id="integrantes" src="bts/img/int/jin1.jpg" alt="Meghna">
+                        <a href="javascript:void(0)" data-largesrc= "got7/img/int/mark.jpg" data-title="Kim Seokjin" data-description="Nome Artístico: Jin <br>Data de Nascimento: 04/12/1992 <br>Cidade Natal: Gwacheon <br>Posição: Vocalista e Visual<br>Altura: 1,79<br>Cor Favorita: Rosa<br>Comida Favorita: Lagosta, carne, naengmyeon (macarrão frio), frango, alimentos gordurosos">
+                            <img id="integrantes" src="got7/img/int/mark1.jpg" alt="Meghna">
                             <div class="hover-mask">
                                 <h3>Jin</h3>
                                 <span>
@@ -528,7 +527,7 @@
                     <!-- single portfolio item -->
                     <li class="mix web">
                         <a href="javascript:void(0)" data-largesrc="bts/img/int/suga2.jpg" data-title="Min Yoongi" data-description="Nome Artístico: Suga<br>Data de Nascimento: 09/03/1993 <br>Cidade Natal: Daegu <br>Posição: Rapper<br>Altura: 1,76<br>Cor Favorita: Branco<br>Comida Favorita: Carne, carne, carne">
-                            <img id="integrantes" src="bts/img/int/suga7.jpg" alt="Meghna">
+                            <img id="integrantes" src="got7/img/int/jb1.jpg" alt="Meghna">
                             <div class="hover-mask">
                                 <h3>Suga</h3>
                                 <span>
@@ -542,7 +541,7 @@
                     <!-- single portfolio item -->
                     <li class="mix photoshop">
                         <a href="javascript:void(0)" data-largesrc="bts/img/int/rm3.jpg" data-title="Kim Namjoon" data-description="Nome Artístico: Rap Monster <br>Data de Nascimento: 12/09/1994 <br>Cidade Natal: Ilsan <br>Posição: Líder, rapper e compositor<br>Altura: 1,81<br>Cor Favorita: Preto<br>Comida Favorita: Carne, Korean knife noodles (Macarrão coreano)">
-                            <img id="integrantes" src="bts/img/int/rm2.jpg" alt="Meghna">
+                            <img id="integrantes" src="got7/img/int/jack1.jpg" alt="Meghna">
                             <div class="hover-mask">
                                 <h3>Rap Monster</h3>
                                 <span>
@@ -556,7 +555,7 @@
                     <!-- single portfolio item -->
                     <li class="mix illustrator">
                         <a href="javascript:void(0)" data-largesrc="bts/img/int/jh3.jpg" data-title="Jung Hoseok" data-description="Nome Artístico: J-Hope <br>Data de Nascimento: 18/02/1994 <br>Cidade Natal: Gwangju <br>Posição: Rapper e dançarino<br>Altura: 1,77<br>Cor Favorita: Verde<br>Comida Favorita: Kimchi">
-                            <img id="integrantes" src="bts/img/int/jh2.jpg" alt="Meghna">
+                            <img id="integrantes" src="got7/img/int/jr1.jpg" alt="Meghna">
                             <div class="hover-mask">
                                 <h3>J-Hope</h3>
                                 <span>
@@ -570,7 +569,7 @@
                     <!-- single portfolio item -->
                     <li class="mix app">
                         <a href="javascript:void(0)" data-largesrc="bts/img/int/jimin2.jpg" data-title="Park Jimin" data-description="Nome Artístico: Jimin <br>Data de Nascimento: 13/10/1995 <br>Cidade Natal: Busan<br>Posição: Vocalista e dançarino<br>Altura: 1,75<br>Cor Favorita: Azul e preto<br>Comida Favorita: Carne (porco, bife, pato, frango), frutas, ensopado (kimchi jjigae)">
-                            <img id="integrantes" src="bts/img/int/jimin3.jpg" alt="Meghna">
+                            <img id="integrantes" src="bts/img/int/youngjae2.jpg" alt="Meghna">
                             <div class="hover-mask">
                                 <h3>Jimin</h3>
                                 <span>
@@ -584,7 +583,7 @@
                     <!-- single portfolio item -->
                     <li class="mix app">
                         <a href="javascript:void(0)" data-largesrc="bts/img/int/v2.jpg" data-title="Kim Taehyung" data-description="Nome Artístico: V<br>Data de Nascimento: 30/12/1995<br>Cidade Natal: Daegu <br>Posição: Vocalista<br>Altura: 1,78<br>Cor Favorita: Verde, preto e branco<br>Comida Favorita: Japchae, qualquer tipo de carne">
-                            <img id="integrantes" src="bts/img/int/v3.jpg" alt="Meghna">
+                            <img id="integrantes" src="got7/img/int/bambam1.jpg" alt="Meghna">
                             <div class="hover-mask">
                                 <h3>V</h3>
                                 <span>
@@ -598,7 +597,7 @@
                     <!-- single portfolio item -->
                     <li class="mix web">
                         <a href="javascript:void(0)" data-largesrc="bts/img/int/jk2.jpg" data-title="Jeon Jeongguk" data-description="Nome Artístico: Jungkook <br>Data de Nascimento: 01/09/1997 <br>Cidade Natal: Busan <br>Posição: Maknae, Vocalista, Rapper e Dançarino<br>Altura: 1,77<br>Cor Favorita: Preto, vermelho e branco<br>Comida Favorita: Pão, pizza, qualquer coisa com farinha.">
-                            <img id="integrantes" src="bts/img/int/jk1.jpg" alt="Meghna">
+                            <img id="integrantes" src="got7/img/int/yug1.jpg" alt="Meghna">
                             <div class="hover-mask">
                                 <h3>Jungkook</h3>
                                 <span>

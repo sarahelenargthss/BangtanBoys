@@ -12,7 +12,7 @@ public class ProgramaDAO {
 
     public PreparedStatement retornaConexao(String sql) {
         //retorna a coneão com o BD
-        String str = "jdbc:mysql://localhost:3306/grupo?" + "user=root&password=root";
+        String str = "jdbc:mysql://localhost:3306/grupo?" + "user=root&password=alunoifc";
         PreparedStatement p;
         try {           
             DriverManager.registerDriver(new com.mysql.jdbc.Driver());
