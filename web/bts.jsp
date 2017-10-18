@@ -61,7 +61,14 @@
         <!-- Modernizer Script for old Browsers -->		
         <script src="js/modernizr-2.6.2.min.js"></script>
 
+        <style>
 
+            #integrantes{
+                width: 650px;
+                height: 375px;
+
+            }
+        </style>
 
 
     </head>
@@ -582,7 +589,7 @@
                         ses = request.getSession(true);
                         ProgramaDAO pdao = new ProgramaDAO();
                         Filmografia flmg = new Filmografia();
-                        flmg.setFilmografia(pdao.carregaListaDeProgramas((String)ses.getAttribute("grupo")));
+                        flmg.setFilmografia(pdao.carregaListaDeProgramas((String) ses.getAttribute("grupo")));
 
                         int max = Calendar.getInstance().get(Calendar.YEAR);
                         boolean mostraAno;
