@@ -27,7 +27,7 @@ public class ProgramaDAO {
     
     public int verificaPrograma(Programa programa){
         try{
-            PreparedStatement p = retornaConexao("select titulo from filmografia where titul = ? and episodios = ?;");
+            PreparedStatement p = retornaConexao("select titulo from filmografia where titulo = ? and episodios = ?;");
             p.setString(1, programa.getNome());
             p.setString(2, programa.getEpisodios());
             ResultSet rs = p.executeQuery();
