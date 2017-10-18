@@ -64,7 +64,7 @@
         <style>
 
             #integrantes{
-                /*width: 100%;*/
+                width: 494px;
                 height: 100%;
 
             }
@@ -576,7 +576,7 @@
                     <!-- single portfolio item -->
                     <li class="mix app">
                         <a href="javascript:void(0)" data-largesrc="bts/img/int/jimin2.jpg" data-title="Park Jimin" data-description="Nome Artístico: Jimin <br>Data de Nascimento: 13/10/1995 <br>Cidade Natal: Busan<br>Posição: Vocalista e dançarino<br>Altura: 1,75<br>Cor Favorita: Azul e preto<br>Comida Favorita: Carne (porco, bife, pato, frango), frutas, ensopado (kimchi jjigae)">
-                            <img id="integrantes" src="got7/img/int/youngjae1.jpg" alt="Meghna">
+                            <img id="integrantes" src="got7/img/int/youngjae2.jpg" alt="Meghna">
                             <div class="hover-mask">
                                 <h3>Jimin</h3>
                                 <span>
@@ -590,7 +590,7 @@
                     <!-- single portfolio item -->
                     <li class="mix app">
                         <a href="javascript:void(0)" data-largesrc="bts/img/int/v2.jpg" data-title="Kim Taehyung" data-description="Nome Artístico: V<br>Data de Nascimento: 30/12/1995<br>Cidade Natal: Daegu <br>Posição: Vocalista<br>Altura: 1,78<br>Cor Favorita: Verde, preto e branco<br>Comida Favorita: Japchae, qualquer tipo de carne">
-                            <img  style="width: 100%; height: 375px;" src="got7/img/int/bambam2.jpg" alt="Meghna">
+                            <img  id="integrantes" src="got7/img/int/bambam3.jpg" alt="Meghna">
                             <div class="hover-mask">
                                 <h3>V</h3>
                                 <span>
