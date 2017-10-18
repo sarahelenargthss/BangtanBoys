@@ -1,5 +1,5 @@
-create schema bts charset latin1 collate latin1_general_cs;
-use bts;
+create schema grupo charset latin1 collate latin1_general_cs;
+use grupo;
 
 create table filmografia (
 	titulo varchar(60) not null,
@@ -8,5 +8,6 @@ create table filmografia (
     canal varchar(60) not null,
     ano int not null,
 	cod_filmografia int auto_increment primary key,
-    tipo varchar(25) not null
+    tipo varchar(25) not null,
+    grupo varchar(60) not null
 );

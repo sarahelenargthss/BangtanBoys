@@ -12,7 +12,7 @@ public class ProgramaDAO {
 
     public PreparedStatement retornaConexao(String sql) {
         //retorna a coneão com o BD
-        String str = "jdbc:mysql://localhost:3306/grupo?" + "user=root&password=alunoifc";
+        String str = "jdbc:mysql://localhost:3306/grupo?" + "user=root&password=root";
         PreparedStatement p;
         try {           
             DriverManager.registerDriver(new com.mysql.jdbc.Driver());
@@ -27,7 +27,7 @@ public class ProgramaDAO {
     
     public int verificaPrograma(Programa programa){
         try{
-            PreparedStatement p = retornaConexao("select titulo from filmografia where titulo = ? and episodios = ?;");
+            PreparedStatement p = retornaConexao("select titulo from filmografia where titul = ? and episodios = ?;");
             p.setString(1, programa.getNome());
             p.setString(2, programa.getEpisodios());
             ResultSet rs = p.executeQuery();

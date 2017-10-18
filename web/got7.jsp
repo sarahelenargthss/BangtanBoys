@@ -72,8 +72,8 @@
         ==================================== -->
         <div id="loading-mask">
             <div class="loading-img">
-                <img alt="Meghna Preloader" src="bts/img/bts5.gif"  />
-                <img id="logoG" alt="logo" src="bts/img/logo3.png"  />
+                <img alt="Meghna Preloader" src="got7/img/preloader.gif"  />
+                <img id="logoG" alt="logo" src="got7/img/logo.png"  />
             </div>
         </div>
         <!--
@@ -91,10 +91,10 @@
                     <!-- single slide item -->
                     <div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
                         <div class="sl-slide-inner">
-                            <img id=imagem3 src=bts/img/bts2.jpg alt=bts9>
+                            <img id=imagem3 src=got7/img/turb2.jpg alt=bts9>
                             <div class="carousel-caption">
                                 <div>
-                                    <img id="logoGrupo" class="wow fadeInUp" src="bts/img/bts4.gif" alt="Meghna">
+                                    <img id="logoGrupo" class="wow fadeInUp" src="got7/img/gotp.png" alt="Meghna">
                                 </div>
                             </div>
                         </div>
@@ -104,7 +104,7 @@
                     <!-- single slide item -->
                     <div class="sl-slide" data-orientation="vertical" data-slice1-rotation="10" data-slice2-rotation="-15" data-slice1-scale="1.5" data-slice2-scale="1.5">
                         <div class="sl-slide-inner">
-                            <img id=imagem2 src="bts/img/bts12.jpg" alt=bts3>
+                            <img id=imagem2 src="got7/img/never.jpg" alt=bts3>
                         </div>
                     </div>
                     <!-- /single slide item -->
@@ -112,7 +112,7 @@
                     <!-- single slide item -->
                     <div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="3" data-slice2-rotation="3" data-slice1-scale="2" data-slice2-scale="1">
                         <div class="sl-slide-inner">
-                            <img id=imagem1 src=bts/img/bts4.jpg alt=bts4>
+                            <img id=imagem1 src=got7/img/ne.jpg alt=bts4>
                         </div>
                     </div>
                     <!-- /single slide item -->
@@ -153,7 +153,7 @@
                     <a class="navbar-brand" href="#body">
                         <h1 id="logo">
                             <img id="logoG" 
-                                 src="bts/img/logo3.png" alt="Meghna" />
+                                 src="got7/img/logo.png" alt="Meghna" />
                         </h1>
                     </a>
                     <!-- /logo -->
@@ -191,7 +191,7 @@
                             <div class="features-item">
 
                                 <!-- features media -->
-                                <img id="sobre" src="bts/img/bangtan1.png" alt="sobre">
+                                <img id="sobre" src="got7/img/novo.png" alt="sobre">
                                 <!-- /features media -->
 
                                 <!-- features content -->
@@ -200,6 +200,7 @@
                                     <p>GOT7 é um boy group de K-pop com sede na Coreia do Sul. </p>
                                     <p>Formado pela JYP Entertainment em 2014, o grupo é composto por sete membros, dois dos quais originalmente estrearam na dupla JJ Project em 2012. </p>
                                     <p>Sua formação atual é: JB, Mark, Jinyoung, Jackson, Youngjae, Bambam e Yugyeom.</p>
+                                    <p><b>Fandom</b>: IGOT7.</p>
                                 </div>
                                 <!-- /features content -->
 
@@ -211,7 +212,7 @@
 
                                 <!-- features media -->
                                 <div class="col-md-6 feature-media wow fadeInUp" data-wow-duration="500ms">
-                                    <img src="bts/img/bts7.jpg" alt="3D Beach Art | Meghna" class="img-responsive">
+                                    <img style="height: 315px;" src="got7/img/arr.jpg" alt="3D Beach Art | Meghna" class="img-responsive">
                                 </div>
                                 <!-- /features media -->
 
@@ -220,7 +221,7 @@
                                     <h3>Sobre o grupo</h3><br>
                                     <p>O grupo foi introduzido ao público através de um episódio do reality show da Mnet Who is Next: WIN, que foi transmitido em 6 de setembro de 2013.</p>
                                     <p>No episódio, quatro membros competiram contra os trainees da YG Entertainment: Team A (agora conhecido como Winner) e Team B (agora conhecido como iKON). Em 16 de janeiro de 2014, GOT7 realizou sua estreia oficial com o lançamento do single "Girls Girls Girls".</p>
-                                 
+
                                 </div>
                                 <!-- /features content -->
 
@@ -254,8 +255,8 @@
                     <!-- Single Service Item -->
                     <article class="col-md-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms">
                         <div class="service-block text-center">
-                            <h3>Melon Music Awards</h3>
-                            <p><b>2013</b><br>BTS - Novo artista do ano<br><b>2015</b><br>"I Need U" - Melhor dança<br><b>2016</b><br>BTS - Top 10 Artistas<br>The Most Beautiful Moment in LIfe: Young Forever - Daesang de Álbum Novo<br><br><br><br></p>
+                            <h3>Gaon​ ​Chart​ ​Music​ ​Awards </h3>
+                            <p><b>2017</b><br>Álbum do ano (1° Trimestre) com "Flight Log: Departure"<br><br><br><br><br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -265,7 +266,7 @@
                     <article class="col-md-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="400ms">
                         <div class="service-block text-center">
                             <h3>Golden Disk Awards</h3>
-                            <p><b>2014</b><br>BTS - Newcomer Award<br><b>2015</b><br>"Dark & Wild" - Disk Bonsang<br><b>2016</b><br>"The Most Beautiful Moment in Life, Part 1" - Disk Bonsang<br><b>2017</b><br>"Wings" - Disk Daesang<br>BTS - Global K-Pop Artist Award<br><br></p>
+                            <p><b>2015</b><br>GOT7 - Melhor​ ​Artista​ ​Novo<br>Prêmio​ ​China​ ​Goodwill​ ​Star<br><b>2017</b><br>Flight​ ​Log:​ ​Turbulence - Disk Bonsang<br><br><br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -273,8 +274,8 @@
                     <!-- Single Service Item -->
                     <article class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="200ms">
                         <div class="service-block text-center">
-                            <h3>Seoul Music Awards</h3>
-                            <p><b>2014</b><br>BTS - New Artist Award<br><b>2015</b><br>BTS - Bonsang Award<br><b>2016</b><br>BTS - Bonsang Award<br><b>2017</b><br>"Wings - Album of the Year"<br>"Blood Sweat and Tears" - Best Music Video Award<br><br><br></p>
+                            <h3>Mnet​ ​Asian​ ​Music​ ​Awards</h3>
+                            <p><b>2016</b><br>GOT7 - Worldwide​ ​Artista​ ​favorito<br><br><br><br><br><br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -282,8 +283,8 @@
                     <!-- Single Service Item -->
                     <article class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="400ms">
                         <div class="service-block text-center">
-                            <h3>Gaon Chart K-Pop Awards</h3>
-                            <p><b>2014</b><br>BTS - novo Artista do Ano (Grupo Masculino)<br><b>2015</b><br>BTS - World Rookie Award<br><b>2016</b><br>BTS - K-Pop World Hallyu Star Award<br><b>2017</b><br>"Wings" - Albun of the Year - 4th Quarter<br>BTS - V Live Global Popularity Award</p>
+                            <h3>SBS​ ​MTV​ ​Best​ ​of​ ​the​ ​Best</h3>
+                            <p><b>2014</b><br>GOT7 - Melhor artista novo<br><br><br><br><br><br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -291,8 +292,8 @@
                     <!-- Single Service Item -->
                     <article class="col-md-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="200ms">
                         <div class="service-block text-center">
-                            <h3>Mnet Asian Music Awards</h3>
-                            <p><b>2015</b><br>BTS - Melhor Performer Mundial<br><b>2016</b><br>"Blood, Sweat and Tears" - Melhor Performance de Dança por um Grupo Masculino<br>BTS - HotelsCombined Artista do Ano(Daesang)<br><br><br><br></p>
+                            <h3>Seoul​ ​Music​ ​Awards</h3>
+                            <p><b>2015</b><br>GOT7 - Prêmio Rookie<br><b>2017</b><br>"Flight​ ​Log:​ ​Turbulence" - Prêmio Bonsang<br><br><br><br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -300,8 +301,8 @@
                     <!-- Single Service Item -->
                     <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
                         <div class="service-block text-center kill-margin-bottom">
-                            <h3>Korean Popular Culture And Arts Awards</h3>
-                            <p><b>2016</b><br>BTS - Culture Minister Award<br><br><br><br><br><br><br></p>
+                            <h3>SBS​ ​Awards​ ​Festival</h3>
+                            <p><b>2015</b><br>Prêmio​ ​de​ ​popularidade​ ​do​ ​Netizen​ ​chinês<br><br><br><br><br><br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -310,7 +311,7 @@
                     <article class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
                         <div class="service-block text-center kill-margin-bottom">
                             <h3>Simply K-Pop Awards</h3>
-                            <p><b>2015</b><br>BTS - Melhor Desempenho de Grupo Masculino<br><br></p>
+                            <p><b>2016</b><br>GOT7 - Mellhor Boy Grupo ("Fly")<br><br><br><br><br><br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -318,8 +319,8 @@
                     <!-- Single Service Item -->
                     <article class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
                         <div class="service-block text-center kill-margin-bottom">
-                            <h3>Asia Artist Awards</h3>
-                            <p><b>2016</b><br>BTS - Best Icon Award, Singer<br>BTS - Best Artist Award, Male Singer</p>
+                            <h3>SBS​ ​The​ ​Show</h3>
+                            <p><b>2016</b><br>GOT7 - Melhor​ ​estrela​ ​mais​ ​quente<br><br><br><br><br><br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -327,8 +328,8 @@
                     <!-- Single Service Item -->
                     <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
                         <div class="service-block text-center kill-margin-bottom">
-                            <h3>MBC Music Show Champion</h3>
-                            <p><b>2015</b><br>"Run" - Melhor Performance de Grupo Masculino<br><br></p>
+                            <h3>Global​ ​V​ ​LIVE​ ​Award </h3>
+                            <p><b>2017</b><br>GOT7 - Artista Global Top 10<br><br><br><br><br><br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -338,8 +339,8 @@
                     <!-- Single Service Item -->
                     <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
                         <div class="service-block text-center kill-margin-bottom">
-                            <h3>MTV Europe Music Awards</h3>
-                            <p><b>2015</b><br>BTS - Best Korean Act<br><br><br><br></p>
+                            <h3>Fashion​ ​Power​ ​Awards</h3>
+                            <p><b>2015</b><br>GOT7 - Grupo​ ​de​ ​influência​ ​de​ ​melhor​ ​estilo​ ​da​ ​Ásia<br><br><br><br><br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -347,8 +348,8 @@
                     <!-- Single Service Item -->
                     <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
                         <div class="service-block text-center kill-margin-bottom">
-                            <h3>YinYueTai</h3>
-                            <p><b>2014</b><br>BTS - Rookie Award<br><br><br><br></p>
+                            <h3>MTV​ ​Europe​ ​Music​ ​Awards </h3>
+                            <p><b>2016</b><br>GOT7 - Melhor​ ​Ato​ ​Mundial​ ​(Coréia)<br><br><br><br><br><br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -356,10 +357,67 @@
                     <!-- Single Service Item -->
                     <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
                         <div class="service-block text-center kill-margin-bottom">
-                            <h3>Japan Gold Disk Awards</h3>
-                            <p><b>2015</b><br>BTS - Melhor Artista Novo (Ásia)<br>BTS - 3 Melhores Novos Artistas (Ásia)<br><b>2017</b><br>Youth - 3 Melhores Albuns</p>
+                            <h3>SEED​ ​Awards</h3>
+                            <p><b>2015</b><br>GOT7 - Artista​ ​asiático​ ​popular​ ​do​ ​ano<br><br><br><br><br><br><br><br></p>
                         </div>
                     </article>
+                    <!-- End Single Service Item -->
+
+                    <!-- Single Service Item -->
+                    <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
+                        <div class="service-block text-center kill-margin-bottom">
+                            <h3>Top​ ​Chinese​ ​Music​ ​Festival</h3>
+                            <p><b>2015</b><br>GOT7 - Prêmio​ ​mais​ ​promissor​ ​de​ ​recém-chegados​ ​(categoria​ ​internacional)<br><br><br><br><br><br><br></p>
+                        </div>
+                    </article>
+                    <!-- End Single Service Item -->
+
+                    <!-- Single Service Item -->
+                    <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
+                        <div class="service-block text-center kill-margin-bottom">
+                            <h3>YinYue​ ​V-Chart​ ​Awards</h3>
+                            <p><b>2015</b><br>GOT7 - Melhor recém-chegado coreano<br><br><br><br><br><br><br><br></p>
+                        </div>
+                    </article>
+                    <!-- End Single Service Item -->
+
+                    <!-- Single Service Item -->
+                    <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
+                        <div class="service-block text-center kill-margin-bottom">
+                            <h3>Youku​ ​Night​ ​Awards</h3>
+                            <p><b>2015</b><br>GOT7 - Novo​ ​Prêmio​ ​Grupo​ ​Asiático<br><br><br><br><br><br><br><br></p>
+                        </div>
+                    </article>
+                    <!-- End Single Service Item -->
+
+                    <!-- Single Service Item -->
+                    <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
+                        <div class="service-block text-center kill-margin-bottom">
+                            <h3>ATK​ ​Awards</h3>
+                            <p><b>2016</b><br>GOT7 - Random​ ​Play​ ​Dance​ ​King<br><br><br><br><br><br><br><br></p>
+                        </div>
+                    </article>
+                    <!-- End Single Service Item -->
+
+                    <!-- Single Service Item -->
+                    <div style="opacity: 0;">
+                        <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
+                            <div class="service-block text-center kill-margin-bottom">
+                                <h3> </h3>
+                                <p><br><br><br><br><br><br><br><br><br><br><br></p>
+                            </div>
+                        </article>
+                    </div>
+                    <!-- End Single Service Item -->
+                    <!-- Single Service Item -->
+                    <div style="opacity: 0;">
+                        <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
+                            <div class="service-block text-center kill-margin-bottom">
+                                <h3> </h3>
+                                <p><br><br><br><br><br><br><br><br><br><br><br></p>
+                            </div>
+                        </article>
+                    </div>
                     <!-- End Single Service Item -->
 
                     <br><h2>Premiações em Programas de Música</h2><br>
@@ -368,7 +426,7 @@
                     <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
                         <div class="service-block text-center kill-margin-bottom">
                             <h3>The Show</h3>
-                            <p><b>2015</b><br>"I Need U" - 05 e 12 de maio<br>"Run" - 08 de dezembro<br><b>2016</b><br>"Blood Sweat & Tears" - 25 de outubro<br><br><br><br><br></p>
+                            <p><b>2015</b><br>"If you do" - 06, 13 e 20 de Outubro<br><b>2016</b><br>"Fly" - 29 de Março e 05 de Abril<br>"Hard Carry" - 18 de Outubro<br><b>2017</b><br>"Never Ever" - 21 de Março<br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -377,7 +435,7 @@
                     <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
                         <div class="service-block text-center kill-margin-bottom">
                             <h3>M! Countdown</h3>
-                            <p><b>2015</b><br>"I Need U" - 07 de maio<br><b>2016</b><br>"Fire" - 12 de Maio<br>"Blood Sweat & Tears" - 20 de Outubro<br><b>2017</b><br>"Spring Day" - 23 de Fevereiro<br><br><br></p>
+                            <p><b>2016</b><br>"Fly" - 31 de Março<br>"Hard Carry" - 06 de Outubro<br><b>2017</b><br>"Never Ever" - 23 de Março<br><br><br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -386,7 +444,7 @@
                     <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
                         <div class="service-block text-center kill-margin-bottom">
                             <h3>Music Bank</h3>
-                            <p><b>2015</b><br>"I Need U" - 08 de maio<br>"Run" - 11 de dezembro<br><b>2016</b><br>"Run" - 08 de janeiro<br>"Fire" - 13 de maio<br>"Blood Sweat & Tears" - 21 e 28 de Outubro<br><b>2017</b><br>"Spring Day" - 24 de Fevereiro</p>
+                            <p><b>2016</b><br>"Fly" - 01 de Abril<br>"Hard Carry" - 07 de Outubro<br><b>2017</b><br>"Never Ever" - 24 de Março<br><br><br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -395,7 +453,7 @@
                     <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
                         <div class="service-block text-center kill-margin-bottom">
                             <h3>Show Champion</h3>
-                            <p><b>2015</b><br>"I Need U" - 13 de maio<br>"Run" - 09 e 16 de dezembro<br><b>2016</b><br>"Blood Sweat & Tears" - 19 de outubro<br><b>2017</b><br>"Spring Day" - 22 de Fevereiro</p>
+                            <p><b>2017</b><br>"Never Ever" - 22 de Março<br><br><br><br><br><br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -404,9 +462,20 @@
                     <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
                         <div class="service-block text-center kill-margin-bottom">
                             <h3>Inkigayo</h3>
-                            <p><b>2016</b><br>"Fire" - 15 de Maio<br>"Blood Sweat & Tears" - 23 de outubro<br><b>2017</b><br>"Spring Day" - 26 de Fevereiro<br><br><br></p>
+                            <p><b>2016</b><br>"Fly" - 03 de Abril<br>"Hard Carry" - 09 de Outubro<br><br><br><br><br><br><br></p>
                         </div>
                     </article>
+                    <!-- End Single Service Item -->
+
+                    <!-- Single Service Item -->
+                    <div style="opacity: 0;">
+                        <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
+                            <div class="service-block text-center kill-margin-bottom">
+                                <h3> </h3>
+                                <p><br><br><br><br><br><br><br><br><br><br><br></p>
+                            </div>
+                        </article>
+                    </div>
                     <!-- End Single Service Item -->
 
 
@@ -580,7 +649,7 @@
                         ses = request.getSession(true);
                         ProgramaDAO pdao = new ProgramaDAO();
                         Filmografia flmg = new Filmografia();
-                        flmg.setFilmografia(pdao.carregaListaDeProgramas((String)ses.getAttribute("grupo")));
+                        flmg.setFilmografia(pdao.carregaListaDeProgramas((String) ses.getAttribute("grupo")));
 
                         int max = Calendar.getInstance().get(Calendar.YEAR);
                         boolean mostraAno;
