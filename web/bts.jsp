@@ -156,11 +156,15 @@
                     </button>
                     <!-- /responsive nav button -->
 
+                    <a class="navbar-brand" href="grupos.jsp">
+                        <h1 id="logo">
+                            <img style="height: 62.9px;" src="img/morep.png" alt="Meghna" />
+                        </h1>
+                    </a>
                     <!-- logo -->
                     <a class="navbar-brand" href="#body">
                         <h1 id="logo">
-                            <img id="logoG" 
-                                 src="bts/img/logo3.png" alt="Meghna" />
+                            <img id="logoG" src="bts/img/logo3.png" alt="Meghna" />
                         </h1>
                     </a>
                     <!-- /logo -->
