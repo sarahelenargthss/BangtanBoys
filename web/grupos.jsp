@@ -40,7 +40,7 @@
         </div>
         <div class="slide" style="background: url('img/grupos/1711.jpg') fixed; background-size: 100%;">
             <div style="padding-left: 44%; background: rgba(0,0,0,0.6); width: auto; height: 450px; color: white; ">
-                <a href='controlador?op=verPagina&pag=bts.jsp'> <h2>Seventeen</h2></a>
+                <a href='controlador?op=verPagina&pag=svt.jsp'> <h2>Seventeen</h2></a>
             </div>
         </div>
     </body>
