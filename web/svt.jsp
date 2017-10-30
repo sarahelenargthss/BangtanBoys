@@ -155,6 +155,11 @@
                     </button>
                     <!-- /responsive nav button -->
 
+                    <a class="navbar-brand" href="grupos.jsp">
+                        <h1 id="logo">
+                            <img style="height: 62.9px;" src="img/morep.png" alt="Meghna" />
+                        </h1>
+                    </a>
                     <!-- logo -->
                     <a class="navbar-brand" href="#body">
                         <h1 id="logo">
@@ -204,9 +209,9 @@
                                 <div class="col-md-6 feature-desc wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
                                     <h3>Sobre o grupo</h3><br>
                                     <p>SEVENTEEN é um grupo sul coreano da Pledis Entertainment, formado por 13 membros. </p>
-                                    <p>BTS fez sua estreia oficial em 13 de junho de 2013 com o lançamento do single "No More Dream" do álbum 2 Cool 4 Skool.</p>
-                                    <p>Os sete integrantes são: Jin, Suga, J-hope, Rap Monster, Jimin, V e Jungkook.</p>
-                                    <p>Jimin foi o último a entrar no grupo e V foi o único a ser revelado apenas no debut.</p>
+                                    <p>O grupo é dividido em 3 times: Vocal Team (Jeonghan, Joshua, Woozi, DK, Seungkwan), Hip Hop Team (S.Coups, Wonwoo, Mingyu, Vernon) e Performance Team (Jun, Hoshi, THE8, Dino). Por isso, a explicação dada para o nome SEVENTEEN (17) é de que o grupo é formado por 13 membros + 3 times + 1 equipe total.</p>
+                                    <p>Inicialmente, o grupo era na verdade o “Tempest” (S.Coups, Doyoon, Jihoon, Yusang e Youngwoon) que realizaria um debut em 2012, porém Yusang e Youngwoon deixaram a empresa e então os membros restantes foram movidos para o SEVENTEEN.</p>
+                                    <p>Em Dezembro de 2012, a companhia anunciou o lançamento da “SEVENTEEN TV” um programa pré-debut pelo qual os fãs poderiam avaliar o treinamento dos membros e conhecê-los melhor.</p>
                                 </div>
                                 <!-- /features content -->
 
@@ -225,9 +230,9 @@
                                 <!-- features content -->
                                 <div class="col-md-6 feature-desc wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
                                     <h3>Sobre o grupo</h3>
-                                    <p>O grupo teve várias mudanças de membros durante o processo de formação, alguns sempre saíam do grupo, o único que realmente ficou foi Rap Monster (Kim Namjoon). O grupo deveria ter debutado em 2010 mas como não foi possível por causa da saída de membros, debutaram no ano de 2013.</p>
-                                    <p>Os ex-membros são: Shin Donghyuk (Supreme Boi), Choi Ikje (i11evn), Jin Hyosang (Kidoh) e Jung Hunchul (Iron).</p>
-                                    <p>Eles também tiveram o seu próprio programa de variedades intitulado como Rookie King: Channel Bangtan, que foi ao ar através da SBS MTV em oito episódios.</p>
+                                    <p>Em Janeiro de 2013 o programa “SEVENTEEN TV” foi ao ar e a Pledis informou que os garotos que apareceram no primeiro episódio não seriam os membros finais do grupo e que eram todos apenas trainees.</p>
+                                    <p>Os membros permanentes seriam escolhidos de acordo com a opinião dos fãs. Houve 5 temporadas e durante o processo 3 membros deixaram o grupo por motivos não divulgados. Permaneceram no grupo então os 13 membros: S.Coups, Jeonghan, Joshua, Jun, Hoshi, Wonwoo,Woozi, DK, Mingyu, The8, Seungkwan, Vernon e Dino.</p>
+                                    <p>Em abril de 2015 foi anunciado o “Seventeen Project: Debut Big Plan”, um programa onde o SEVENTEEN deveria completar missões para arrecadar 1000 fãs e ter como recompensa um showcase ao vivo de uma hora de duração (algo nunca feito antes). Eles tiveram sucesso nas missões e conseguiram sua recompensa! Tiveram seu debut showcase no dia 26 de Maio e seu debut oficial em um programa de música no dia seguinte, 27 de Maio no Show Champion. O MV de sua faixa título “Adore U” foi lançado no dia 29, concomitantemente com seu primeiro mini-álbum: 17 Carat.</p>
 
                                 </div>
                                 <!-- /features content -->
@@ -263,7 +268,7 @@
                     <article class="col-md-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms">
                         <div class="service-block text-center">
                             <h3>Melon Music Awards</h3>
-                            <p><b>2013</b><br>BTS - Novo artista do ano<br><b>2015</b><br>"I Need U" - Melhor dança<br><b>2016</b><br>BTS - Top 10 Artistas<br>The Most Beautiful Moment in LIfe: Young Forever - Daesang de Álbum Novo<br><br><br><br></p>
+                            <p><b>2016</b><br>Seventeen - MBC Music Star Award<br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -273,7 +278,7 @@
                     <article class="col-md-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="400ms">
                         <div class="service-block text-center">
                             <h3>Golden Disk Awards</h3>
-                            <p><b>2014</b><br>BTS - Newcomer Award<br><b>2015</b><br>"Dark & Wild" - Disk Bonsang<br><b>2016</b><br>"The Most Beautiful Moment in Life, Part 1" - Disk Bonsang<br><b>2017</b><br>"Wings" - Disk Daesang<br>BTS - Global K-Pop Artist Award<br><br></p>
+                            <p><b>2016</b><br>Seventeen - Rookie of the Year<br><b>2017</b><br>"Love & Letter" - Disk Bonsang<br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -282,7 +287,7 @@
                     <article class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="200ms">
                         <div class="service-block text-center">
                             <h3>Seoul Music Awards</h3>
-                            <p><b>2014</b><br>BTS - New Artist Award<br><b>2015</b><br>BTS - Bonsang Award<br><b>2016</b><br>BTS - Bonsang Award<br><b>2017</b><br>"Wings - Album of the Year"<br>"Blood Sweat and Tears" - Best Music Video Award<br><br><br></p>
+                            <p><b>2015</b><br>Seventeen - Best New Male Artist<br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -291,7 +296,7 @@
                     <article class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="400ms">
                         <div class="service-block text-center">
                             <h3>Gaon Chart K-Pop Awards</h3>
-                            <p><b>2014</b><br>BTS - novo Artista do Ano (Grupo Masculino)<br><b>2015</b><br>BTS - World Rookie Award<br><b>2016</b><br>BTS - K-Pop World Hallyu Star Award<br><b>2017</b><br>"Wings" - Albun of the Year - 4th Quarter<br>BTS - V Live Global Popularity Award</p>
+                            <p><b>2016</b><br>Seventeen - World Rookie Award<br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -300,7 +305,7 @@
                     <article class="col-md-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="200ms">
                         <div class="service-block text-center">
                             <h3>Mnet Asian Music Awards</h3>
-                            <p><b>2015</b><br>BTS - Melhor Performer Mundial<br><b>2016</b><br>"Blood, Sweat and Tears" - Melhor Performance de Dança por um Grupo Masculino<br>BTS - HotelsCombined Artista do Ano(Daesang)<br><br><br><br></p>
+                            <p><b>2015</b><br>Seventeen - Best World Performer<br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -308,17 +313,8 @@
                     <!-- Single Service Item -->
                     <article id="premio"class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
                         <div class="service-block text-center kill-margin-bottom">
-                            <h3>Korean Popular Culture And Arts Awards</h3>
-                            <p><b>2016</b><br>BTS - Culture Minister Award<br><br><br><br><br><br><br></p>
-                        </div>
-                    </article>
-                    <!-- End Single Service Item -->
-
-                    <!-- Single Service Item -->
-                    <article class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
-                        <div class="service-block text-center kill-margin-bottom">
-                            <h3>Simply K-Pop Awards</h3>
-                            <p><b>2015</b><br>BTS - Melhor Desempenho de Grupo Masculino<br><br></p>
+                            <h3>Asia Model Festival Awards</h3>
+                            <p><b>2016</b><br>Seventeen - Popular Singer Award<br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -327,7 +323,42 @@
                     <article class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
                         <div class="service-block text-center kill-margin-bottom">
                             <h3>Asia Artist Awards</h3>
-                            <p><b>2016</b><br>BTS - Best Icon Award, Singer<br>BTS - Best Artist Award, Male Singer</p>
+                            <p><b>2016</b><br>Seventeen - Best Star Award, Singer<br><br><br></p>
+                        </div>
+                    </article>
+                    <!-- End Single Service Item -->
+                    
+                    <!-- Single Service Item -->
+                    <div style="opacity: 0;">
+                        <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
+                            <div class="service-block text-center kill-margin-bottom">
+                                <h3> </h3>
+                                <p><br><br><br><br></p>
+                            </div>
+                        </article>
+                    </div>
+                    <!-- End Single Service Item -->
+                    
+                    <!-- Single Service Item -->
+                    <div style="opacity: 0;">
+                        <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
+                            <div class="service-block text-center kill-margin-bottom">
+                                <h3> </h3>
+                                <p><br><br><br><br><br></p>
+                            </div>
+                        </article>
+                    </div>
+                    <!-- End Single Service Item -->
+
+                    <br>
+                    
+                    <br><h2>Outros Prêmios</h2><br>
+
+                    <!-- Single Service Item -->
+                    <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
+                        <div class="service-block text-center kill-margin-bottom">
+                            <h3>SBS PopAsia Awards</h3>
+                            <p><b>2015</b><br>Seventeen - Best Rookie Group<br><br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -335,19 +366,8 @@
                     <!-- Single Service Item -->
                     <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
                         <div class="service-block text-center kill-margin-bottom">
-                            <h3>MBC Music Show Champion</h3>
-                            <p><b>2015</b><br>"Run" - Melhor Performance de Grupo Masculino<br><br></p>
-                        </div>
-                    </article>
-                    <!-- End Single Service Item -->
-
-                    <br><h2>Premiações Internacionais</h2><br>
-
-                    <!-- Single Service Item -->
-                    <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
-                        <div class="service-block text-center kill-margin-bottom">
-                            <h3>MTV Europe Music Awards</h3>
-                            <p><b>2015</b><br>BTS - Best Korean Act<br><br><br><br></p>
+                            <h3>Hello Asia K-Pop Awards</h3>
+                            <p><b>2015</b><br>Seventeen - Best Newcomer<br><br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -355,8 +375,8 @@
                     <!-- Single Service Item -->
                     <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
                         <div class="service-block text-center kill-margin-bottom">
-                            <h3>YinYueTai</h3>
-                            <p><b>2014</b><br>BTS - Rookie Award<br><br><br><br></p>
+                            <h3>MBC Show Champion Awards</h3>
+                            <p><b>2015</b><br>Seventeen - Most Appearances<br><br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -364,10 +384,30 @@
                     <!-- Single Service Item -->
                     <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
                         <div class="service-block text-center kill-margin-bottom">
-                            <h3>Japan Gold Disk Awards</h3>
-                            <p><b>2015</b><br>BTS - Melhor Artista Novo (Ásia)<br>BTS - 3 Melhores Novos Artistas (Ásia)<br><b>2017</b><br>Youth - 3 Melhores Albuns</p>
+                            <h3>11th Soompi Awards</h3>
+                            <p><b>2015</b><br>Seventeen - Rookie Of The Year<br><br><br><br></p>
                         </div>
                     </article>
+                    <!-- End Single Service Item -->
+
+                    <!-- Single Service Item -->
+                    <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
+                        <div class="service-block text-center kill-margin-bottom">
+                            <h3>7th Philippine Kpop Awards</h3>
+                            <p><b>2015</b><br>Seventeen - Rookie Award<br><br><br><br></p>
+                        </div>
+                    </article>
+                    <!-- End Single Service Item -->
+                    
+                    <!-- Single Service Item -->
+                    <div style="opacity: 0;">
+                        <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
+                            <div class="service-block text-center kill-margin-bottom">
+                                <h3> </h3>
+                                <p><br><br><br><br><br><br><br></p>
+                            </div>
+                        </article>
+                    </div>
                     <!-- End Single Service Item -->
 
                     <br><h2>Premiações em Programas de Música</h2><br>
@@ -375,17 +415,8 @@
                     <!-- Single Service Item -->
                     <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
                         <div class="service-block text-center kill-margin-bottom">
-                            <h3>The Show</h3>
-                            <p><b>2015</b><br>"I Need U" - 05 e 12 de maio<br>"Run" - 08 de dezembro<br><b>2016</b><br>"Blood Sweat & Tears" - 25 de outubro<br><br><br><br><br></p>
-                        </div>
-                    </article>
-                    <!-- End Single Service Item -->
-
-                    <!-- Single Service Item -->
-                    <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
-                        <div class="service-block text-center kill-margin-bottom">
                             <h3>M! Countdown</h3>
-                            <p><b>2015</b><br>"I Need U" - 07 de maio<br><b>2016</b><br>"Fire" - 12 de Maio<br>"Blood Sweat & Tears" - 20 de Outubro<br><b>2017</b><br>"Spring Day" - 23 de Fevereiro<br><br><br></p>
+                            <p><b>2016</b><br>"Boom Boom" - 15 de Dezembro<br><br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -394,7 +425,7 @@
                     <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
                         <div class="service-block text-center kill-margin-bottom">
                             <h3>Music Bank</h3>
-                            <p><b>2015</b><br>"I Need U" - 08 de maio<br>"Run" - 11 de dezembro<br><b>2016</b><br>"Run" - 08 de janeiro<br>"Fire" - 13 de maio<br>"Blood Sweat & Tears" - 21 e 28 de Outubro<br><b>2017</b><br>"Spring Day" - 24 de Fevereiro</p>
+                            <p><b>2016</b><br>"Boom Boom" - 16 de Dezembro<br><br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -403,16 +434,7 @@
                     <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
                         <div class="service-block text-center kill-margin-bottom">
                             <h3>Show Champion</h3>
-                            <p><b>2015</b><br>"I Need U" - 13 de maio<br>"Run" - 09 e 16 de dezembro<br><b>2016</b><br>"Blood Sweat & Tears" - 19 de outubro<br><b>2017</b><br>"Spring Day" - 22 de Fevereiro</p>
-                        </div>
-                    </article>
-                    <!-- End Single Service Item -->
-
-                    <!-- Single Service Item -->
-                    <article id="premio" class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
-                        <div class="service-block text-center kill-margin-bottom">
-                            <h3>Inkigayo</h3>
-                            <p><b>2016</b><br>"Fire" - 15 de Maio<br>"Blood Sweat & Tears" - 23 de outubro<br><b>2017</b><br>"Spring Day" - 26 de Fevereiro<br><br><br></p>
+                            <p><b>2016</b><br>"Pretty U" - 04 e 11 de Maio<br>"Boom Boom" - 21 de dezembro<br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
