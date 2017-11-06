@@ -764,8 +764,8 @@
                                     <img src="svt/img/discografia/17c.jpg" alt="amazing caves coverimage" class="img-responsive">
                                 </div>
                                 <div class="excerpt">
-                                    <h3>2 Cool 4 Skool</h3>
-                                    <p>Mini-Álbum<br>Data de lançamento: 12.06.13<br>Gênero: Rap, Hip-Hop & K-Pop<br><b><h3>Faixas:</h3></b><br>Intro: 2 Cool 4 Skool<br>We Are Bulletproof Pt.2<br>Skit: Circle Room Talk<br>No More Dream<br>Interlude<br>I Like It<br>Outro: Circle Room Cypher<br><br><br><br><br><br><br><br></p>
+                                    <h3>17 Carat</h3>
+                                    <p>Mini-Álbum<br>Data de lançamento: 29.05.15<br><b><h3>Faixas:</h3></b><br>Shining Diamond<br>Adore U<br>Ah Yeah<br>Jam Jam<br>20<br><br><br><br></p>
                                 </div>
                             </div>						
                         </article>
@@ -775,11 +775,11 @@
                         <article id="disco" class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="note kill-margin-bottom">
                                 <div class="media-wrapper">
-                                    <img src="svt/img/discografia/al1.jpg" alt="amazing caves coverimage" class="img-responsive">
+                                    <img src="svt/img/discografia/bb.jpg" alt="amazing caves coverimage" class="img-responsive">
                                 </div>
                                 <div class="excerpt">
-                                    <h3>O!RUL8,2?</h3>
-                                    <p>Mini-Álbum<br>Data de lançamento: 12.09.13<br>Gênero: Rap, Hip-Hop & K-Pop<br><b><h3>Faixas:</h3></b><br>Intro: O!RUL8,2?<br>N.O<br>We On<br>Skit: R U Happy Now?<br>If I Ruled The World<br>Coffee>BTS Cypher Pt.1<br>Rise of Bangtan/Attack on Bangtan<br>Paldogangsan - Satoori Rap<br>Outro: Luv In Skool<br><br><br><br><br><br></p>
+                                    <h3>Boys Be</h3>
+                                    <p>Mini-Álbum<br>Data de lançamento: 10.09.15<br><b><h3>Faixas:</h3></b><br>Fronting<br>Mansae<br>When I Grow Up<br>OMG<br>Rock<br><br><br><br></p>
                                 </div>
                             </div>						
                         </article>
@@ -790,12 +790,12 @@
                         <article id="disco" class="col-md-3 col-sm-6 col-xs-12 clearfix wow fadeInUp" data-wow-duration="500ms">
                             <div class="note">
                                 <div class="media-wrapper">
-                                    <img src="svt/img/discografia/bb.jpg" alt="amazing caves coverimage" class="img-responsive">
+                                    <img src="svt/img/discografia/gs.jpg" alt="amazing caves coverimage" class="img-responsive">
                                 </div>
 
                                 <div class="excerpt">
-                                    <h3>Skool Luv Affair</h3>
-                                    <p>Mini-Álbum<br>Data de lançamento: 12.02.14<br>Gênero: Rap, Hip-Hop & K-Pop<br><b><h3>Faixas:</h3></b><br>Intro: Skool Luv Affair<br>Boy In Luv<br>Skit: Soulmate<br>Where Did You Come From<br>Just One Day<br>Tomorrow<br>BTS Cypher PT.2: Triptych<br>Spine Breaker<br>Jump<br>Outro: Propose<br><br><br><br><br></p>
+                                    <h3>Going Seventeen</h3>
+                                    <p>Mini-Álbum<br>Data de lançamento: 05.12.16<br><b><h3>Faixas:</h3></b><br>Intro: Skool Luv Affair<br>Boy In Luv<br>Skit: Soulmate<br>Where Did You Come From<br>Just One Day<br>Tomorrow<br>BTS Cypher PT.2: Triptych<br>Spine Breaker<br>Jump<br>Outro: Propose<br><br><br><br><br></p>
                                 </div>
                             </div>						
                         </article>
@@ -806,12 +806,12 @@
                         <article id="disco" class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="400ms">
                             <div class="note">
                                 <div class="media-wrapper">
-                                    <img src="svt/img/discografia/gs.jpg" alt="amazing caves coverimage" class="img-responsive">
+                                    <img src="svt/img/discografia/al1.jpg" alt="amazing caves coverimage" class="img-responsive">
                                 </div>
 
                                 <div class="excerpt">
-                                    <h3>Skool Luv Affair Special Addition (Repackage)</h3>
-                                    <p>Mini-Álbum<br>Data de lançamento: 14.05.14<br>Gênero: Rap, Hip-Hop & K-Pop<br><b><h3>Faixas:</h3></b><br>Miss Right<br>I Like It (Slow Jam Remix)<br>Intro: Skool Luv Affair<br>Boy In Luv<br>Skit: Soulmate<br>Where Did You Come From<br>Just One Day<br>Tomorrow<br>BTS Cypher PT.2: Triptych<br>Spine Breaker<br>Jump<br>Outro: Propose<br><br></p>
+                                    <h3>Al1</h3>
+                                    <p>Mini-Álbum<br>Data de lançamento: 22.05.17<br><b><h3>Faixas:</h3></b><br>Miss Right<br>I Like It (Slow Jam Remix)<br>Intro: Skool Luv Affair<br>Boy In Luv<br>Skit: Soulmate<br>Where Did You Come From<br>Just One Day<br>Tomorrow<br>BTS Cypher PT.2: Triptych<br>Spine Breaker<br>Jump<br>Outro: Propose<br><br></p>
 
                                 </div>
                             </div>						
@@ -823,8 +823,8 @@
                                     <img src="svt/img/discografia/ll.jpg" alt="amazing caves coverimage" class="img-responsive">
                                 </div>
                                 <div class="excerpt">
-                                    <h3>DARK&WILD</h3>
-                                    <p>Full-Álbum<br>Data de lançamento: 19.08.14<br>Gênero: Rap, Hip-Hop & K-Pop<br><b><h3>Faixas:</h3></b><br>Intro: What Am I To You<br>Danger<br>War of Hormone<br>Hip-Hop Lover<br>Let Me Know<br>Rain<br>BTS Cypher PT.3: KILLER (Feat. Supreme Boi)<br>Interlude: What Are You Doing<br>Would You Turn Off Your Phone<br>Blanket Kick<br>24/7=Heaven<br>Look Here<br>2nd Grade<br>Outro: Does That Make Sense?</p>
+                                    <h3>Love & Letter (Repackage Edition)</h3>
+                                    <p>Full-Álbum<br>Data de lançamento: 25.04.2016<br><b><h3>Faixas:</h3></b><br>No F.U.N.<br>Very Nice<br>Healing<br>Simple<br>Space<br>Chuck<br>Pretty U<br>Still Lonely<br>Hit Song<br>Say Yes<br>Drift Away<br>Adore U (Vocal Team Ver.)<br>Monday to Saturday (HipHop Team)<br>Shining Diamond (Performance Team)<br>Love Letter<br></p>
                                 </div>
                             </div>						
                         </article>
