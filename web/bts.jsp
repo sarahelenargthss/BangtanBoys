@@ -28,7 +28,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <!-- Favicon -->
-        <link rel="shortcut icon" type="image/x-icon" href="img/bts1.png" />
+        <link rel="shortcut icon" type="image/x-icon" href="bts/img/bts1.png" />
 
         <!-- CSS
         ================================================== -->
@@ -782,6 +782,18 @@
                             </div>						
                         </article>
                         <!-- end single blog post --><!-- single blog post -->
+                         <article id="disco" class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="600ms">
+                            <div class="note kill-margin-bottom">
+                                <div class="media-wrapper">
+                                    <img src="bts/img/discografia/ly.jpg" alt="amazing caves coverimage" class="img-responsive">
+                                </div>
+                                <div class="excerpt">
+                                    <h3>Love Youself: Her</h3>
+                                    <p>Mini-Álbum<br>Data de lançamento: 18.09.2017<br>Gênero:Rap, Hip-Hop & K-Pop<br><b><h3>Faixas:</h3></b><br>INtro: Boys Meets Evil<br>Blood Sweat and Tears<br>Begin<br>Lie<br>Stigma<br>First LOve<br>Reflection<br>MAMA<br>Awake<br>Lost<br>BTS Cypher 4<br>Am I Wrong<br>21st Century Girls<br>Two! Three! (Still Wishing There Will Be Better Days)<br>Interlude: Wings<br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
+                                </div>
+                            </div>						
+                        </article>
+                         <!-- end single blog post --><!-- single blog post -->
                         <article id="disco" class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="600ms">
                             <div class="note kill-margin-bottom">
                                 <div class="media-wrapper">
@@ -802,7 +814,7 @@
                                 </div>
                                 <div class="excerpt">
                                     <h3>The Most Beautiful Moment In Life, Young Forever (Versão Night)</h3>
-                                    <p>Álbum especial<br>Data de lançamento: 02.05.16<br>Gênero: Rap, Hip-Hop & K-Pop<br><b><h3>Faixas CD 1:</h3></b><br>Intro: The Most Beutiful Moment in Life (HwaYang YeonHwa)<br>I NEED U<br>Hold Me Tight<br>Autumn Leaves<br>Butterfly (Prologue Remix)<br>RUN<br>Ma City<br>DOPE<br>Fire<br>Save Me<br>Epilogue: Young Forever<br><b><h3>Faixas CD 2:</h3></b>Converse High<br>Move<br>Whalien 52<br>Butterfly<br>House of Cards (Full Length Edition)<br>Love Is Not Over (Full Length Edition)<br>I NEED U (Urban Remix)<br>I NEED U (Remix)<br>RUN (Ballad Remix)<br>RUN (Alternative Remix)<br>Butterfly (Alternative Remix)<br></p>
+                                    <p>Álbum especial<br>Data de lançamento: 02.05.16<br>Gênero: Rap, Hip-Hop & K-Pop<br><b><h3>Faixas CD 1:</h3></b><br>Intro: The Most Beutiful Moment in Life (HwaYang YeonHwa)<br>I NEED U<br>Hold Me Tight<br>Autumn Leaves<br>Butterfly (Prologue Remix)<br>RUN<br>Ma City<br>DOPE<br>Fire<br>Save Me<br>Epilogue: Young Forever<br><b><h3>Faixas CD 2:</h3></b>Converse High<br>Move<br>Whalien 52<br>Butterfly<br>House of Cards (Full Length Edition)<br>Love Is Not Over (Full Length Edition)<br>I NEED U (Urban Remix)<br>I NEED U (Remix)<br>RUN (Ballad Remix)<br>RUN (Alternative Remix)<br>Butterfly (Alternative Remix)<br><br></p>
                                 </div>
                             </div>						
                         </article>
@@ -815,11 +827,12 @@
                                 </div>
                                 <div class="excerpt">
                                     <h3>Wings</h3>
-                                    <p>Full-Álbum<br>Data de lançamento: 10.10.2016<br>Gênero:Rap, Hip-Hop & K-Pop<br><b><h3>Faixas:</h3></b><br>INtro: Boys Meets Evil<br>Blood Sweat and Tears<br>Begin<br>Lie<br>Stigma<br>First LOve<br>Reflection<br>MAMA<br>Awake<br>Lost<br>BTS Cypher 4<br>Am I Wrong<br>21st Century Girls<br>Two! Three! (Still Wishing There Will Be Better Days)<br>Interlude: Wings<br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
+                                    <p>Full-Álbum<br>Data de lançamento: 10.10.2016<br>Gênero:Rap, Hip-Hop & K-Pop<br><b><h3>Faixas:</h3></b><br>Intro: Serendipity<br>DNA<br>Best of Me<br>Dimple<br>Pied Piper<br>Skit: Billboard Music Awards Speech<br>MIC Drop<br>Go Go<br>Outro: Her<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
                                 </div>
                             </div>						
                         </article>
                         <!-- end single blog post -->
+                        
 
                     </div>
 
