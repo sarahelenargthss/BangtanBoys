@@ -765,7 +765,7 @@
                                 </div>
                                 <div class="excerpt">
                                     <h3>17 Carat</h3>
-                                    <p>Mini-Álbum<br>Data de lançamento: 29.05.15<br><b><h3>Faixas:</h3></b><br>Shining Diamond<br>Adore U<br>Ah Yeah<br>Jam Jam<br>20<br><br><br><br></p>
+                                    <p>Mini-Álbum<br>Data de lançamento: 29.05.15<br><b><h3>Faixas:</h3></b><br>Shining Diamond<br>Adore U<br>Ah Yeah<br>Jam Jam<br>20<br><br><br><br><br><br></p>
                                 </div>
                             </div>						
                         </article>
@@ -779,7 +779,7 @@
                                 </div>
                                 <div class="excerpt">
                                     <h3>Boys Be</h3>
-                                    <p>Mini-Álbum<br>Data de lançamento: 10.09.15<br><b><h3>Faixas:</h3></b><br>Fronting<br>Mansae<br>When I Grow Up<br>OMG<br>Rock<br><br><br><br></p>
+                                    <p>Mini-Álbum<br>Data de lançamento: 10.09.15<br><b><h3>Faixas:</h3></b><br>Fronting<br>Mansae<br>When I Grow Up<br>OMG<br>Rock<br><br><br><br><br><br></p>
                                 </div>
                             </div>						
                         </article>
@@ -795,7 +795,7 @@
 
                                 <div class="excerpt">
                                     <h3>Going Seventeen</h3>
-                                    <p>Mini-Álbum<br>Data de lançamento: 05.12.16<br><b><h3>Faixas:</h3></b><br>Intro: Skool Luv Affair<br>Boy In Luv<br>Skit: Soulmate<br>Where Did You Come From<br>Just One Day<br>Tomorrow<br>BTS Cypher PT.2: Triptych<br>Spine Breaker<br>Jump<br>Outro: Propose<br><br><br><br><br></p>
+                                    <p>Mini-Álbum<br>Data de lançamento: 05.12.16<br><b><h3>Faixas:</h3></b><br>Beautiful<br>BoomBoom<br>Highlight<br>Lean (On Me)<br>A Quick Pace<br>Don't Eavesdrop<br>Not Sure / Let's See<br>Smiling Flower<br><br><br></p>
                                 </div>
                             </div>						
                         </article>
@@ -811,7 +811,7 @@
 
                                 <div class="excerpt">
                                     <h3>Al1</h3>
-                                    <p>Mini-Álbum<br>Data de lançamento: 22.05.17<br><b><h3>Faixas:</h3></b><br>Miss Right<br>I Like It (Slow Jam Remix)<br>Intro: Skool Luv Affair<br>Boy In Luv<br>Skit: Soulmate<br>Where Did You Come From<br>Just One Day<br>Tomorrow<br>BTS Cypher PT.2: Triptych<br>Spine Breaker<br>Jump<br>Outro: Propose<br><br></p>
+                                    <p>Mini-Álbum<br>Data de lançamento: 22.05.17<br><b><h3>Faixas:</h3></b><br>Don't Wanna Cry<br>Habit (Vocal Team)<br>IF I (Hip Hop Team)<br>Swimming Fool (Performance Team)<br>MY I (Jun & The8)<br>Crazy In Love<br>WHO (*CD Only)<br>Check-in (Remastering) (*CD Only)<br><br><br></p>
 
                                 </div>
                             </div>						
@@ -829,6 +829,17 @@
                             </div>						
                         </article>
                         <!-- end single blog post -->
+                        <article id="disco" class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="600ms">
+                            <div class="note kill-margin-bottom">
+                                <div class="media-wrapper">
+                                    <img src="svt/img/discografia/ta.jpg" alt="amazing caves coverimage" class="img-responsive">
+                                </div>
+                                <div class="excerpt">
+                                    <h3>TEEN, AGE</h3>
+                                    <p>Full-Álbum<br>Data de lançamento: 06.11.2017<br><b><h3>Faixas:</h3></b><br>Intro.<br>Change Up (Seventeen Leaders)<br>I'm Wearing a Hat<br>Clap<br>Shoot me Before You Go<br>13th Month Dance (Lilili Yabbay) (Performance Team)<br>Trauma (Hip Hop Team)<br>Pinwheel (Vocal Team)<br>Flower<br>Rocket<br>Hello<br>Campfire<br>OUTRO.<br><br><br></p>
+                                </div>
+                            </div>						
+                        </article>
 
                     </div>
 

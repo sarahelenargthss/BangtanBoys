@@ -21,14 +21,14 @@
 
         <meta name="author" content="Muhammad Morshed">
 
-        <title>Bangtan Boys</title>
+        <title>Got7</title>
 
         <!-- Mobile Specific Meta
         ================================================== -->
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <!-- Favicon -->
-        <link rel="shortcut icon" type="image/x-icon" href="img/bts1.png" />
+        <link rel="shortcut icon" type="image/x-icon" href="got7/img/logo.png" />
 
         <!-- CSS
         ================================================== -->
@@ -323,7 +323,7 @@
                     <article class="col-md-4 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">
                         <div class="service-block text-center kill-margin-bottom">
                             <h3>Simply K-Pop Awards</h3>
-                            <p><b>2016</b><br>GOT7 - Mellhor Boy Grupo ("Fly")<br><br><br><br><br><br><br><br></p>
+                            <p><b>2016</b><br>GOT7 - Melhor Boy Grupo ("Fly")<br><br><br><br><br><br><br><br></p>
                         </div>
                     </article>
                     <!-- End Single Service Item -->
@@ -844,11 +844,22 @@
                                 </div>
                                 <div class="excerpt">
                                     <h3>FLIGHT​ ​ LOG:​ ​ ARRIVAL</h3>
-                                    <p>Data de lançamento: 13.03.2017<br><b><h3>Faixas:</h3></b><br>​ Never​ Ever<br>​Shopping​ Mall<br>Paradise<br>Sign<br>Go​ Higher<br>Q<br>Don't Care<br><br><br><br><br><br><br><br></p>
+                                    <p>Data de lançamento: 13.03.2017<br><b><h3>Faixas:</h3></b><br>​ Never​ Ever<br>​Shopping​ Mall<br>Paradise<br>Sign<br>Go​ Higher<br>Q<br>Don't Care<br><br><br><br><br><br></p>
                                 </div>
                             </div>						
                         </article>
                         <!-- end single blog post -->
+                        <article id="disco" class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="600ms">
+                            <div class="note kill-margin-bottom">
+                                <div class="media-wrapper">
+                                    <img src="got7/img/discografia/77.jpg" alt="amazing caves coverimage" class="img-responsive">
+                                </div>
+                                <div class="excerpt">
+                                    <h3>7 For 7</h3>
+                                    <p>Data de lançamento: 10.10.2017<br><b><h3>Faixas:</h3></b><br>​Moon U<br>​Teenager<br>You Are<br>Firework<br>Remember You<br>To Me<br>Face<br><br><br><br><br><br></p>
+                                </div>
+                            </div>						
+                        </article>
 
                     </div>
 
