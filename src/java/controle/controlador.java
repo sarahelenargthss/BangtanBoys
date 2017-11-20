@@ -59,22 +59,6 @@ public class controlador extends HttpServlet {
                             rd.forward(request, response);
                         } else {
 
-                            /*    XML
-                          Random rdm = new Random(1000);
-
-                        Filmografia flmg = new Filmografia();
-                        flmg.setFilmografia(pdao.carregaListaDeProgramas());
-                        int cod1 = 0;
-                        int cod = 0;
-                        do {
-                            cod = rdm.nextInt();
-                            for (Programa b : flmg.getFilmografia()) {
-                                cod1 = b.getCodPrograma();
-                            }
-                        } while (cod == cod1);
-
-                        if (new ProgramaDAO().inserePrograma(p)) {         
-                             */
                             if (pdao.inserePrograma(p)) {
 
                                 ses.setAttribute("idImagem",
